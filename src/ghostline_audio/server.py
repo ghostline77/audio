@@ -267,12 +267,10 @@ def make_handler(app):
                     content = path.read_bytes()
                     kind = mimetypes.guess_type(path.name)[0] or "application/octet-stream"
                     self.send(content, kind)
-                elif route == "/":
+                elif route in {"/", "/comparisons"}:
                     self.send((Path(__file__).parent / "ui/index.html").read_bytes(), "text/html; charset=utf-8")
-                elif route == "/comparisons":
-                    self.send((Path(__file__).parent / "ui/comparison.html").read_bytes(), "text/html; charset=utf-8")
-                elif route in {"/assets/app.js", "/assets/style.css", "/assets/comparison.js", "/assets/dialogue.js"}:
-                    path = Path(__file__).parent / "ui" / Path(route).name
+                elif route in {"/assets/app.js", "/assets/style.css"}:
+                    path = Path(__file__).parent / "ui" / route.lstrip("/")
                     self.send(path.read_bytes(), "text/javascript" if path.suffix == ".js" else "text/css")
                 else:
                     self.send({"error": "Not found"}, status=404)

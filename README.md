@@ -25,15 +25,19 @@ Generation freezes a copy of the dialogue so you can keep editing safely. Previo
 
 For new NPCs, **Voice Design** creates a reference to listen to and save into the cast before writing dialogue.
 
-To access sibling quest repositories, run from this repository:
+To work on dialogue in a separate project, set the workspace to its directory:
 
 ```powershell
-ghostline-audio serve --workspace .. --library voices/voices.json
+ghostline-audio serve --workspace PATH_TO_PROJECT --library voices/voices.json
 ```
 
 UI paths are relative to the selected workspace. The library argument is a local
 path relative to the command's working directory. GPU synthesis requires CUDA or
 ROCm PyTorch.
+
+## Build the browser UI
+
+The Python package includes the compiled React, TypeScript and Tailwind workbench. After editing its sources, run `npm ci` and `npm run build` from `ui/`. Both the workbench and reference comparisons are served by `ghostline-audio serve`.
 
 ## Download checkpoints without the UI
 

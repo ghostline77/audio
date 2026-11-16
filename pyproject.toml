@@ -22,7 +22,7 @@ ghostline-audio = "ghostline_audio.cli:main"
 where = ["src"]
 
 [tool.setuptools.package-data]
-ghostline_audio = ["ui/*.html", "ui/*.css", "ui/*.js"]
+ghostline_audio = ["ui/*.html", "ui/assets/*.css", "ui/assets/*.js"]
 
 [tool.ruff]
 target-version = "py312"

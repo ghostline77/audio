@@ -59,12 +59,8 @@ def export_native(curves: Path, output: Path, game: Path, schema: Path | None, r
                   exporter: Path | None = None):
     """Finish the audio pipeline through the shared native resource writer."""
     if exporter is None:
-        sibling = Path(__file__).resolve().parents[3] / "ghostline-red" / "target"
-        candidates = [sibling / profile / "ghostline-facial.exe" for profile in ("release", "debug")]
-        exporter = next((path for path in candidates if path.is_file()), None)
-        if exporter is None:
-            located = shutil.which("ghostline-facial")
-            exporter = Path(located) if located else None
+        located = shutil.which("ghostline-facial")
+        exporter = Path(located) if located else None
     if exporter is None:
         raise FileNotFoundError("Native facial writer is unavailable; build ghostline-red's ghostline-facial binary or pass --native-exporter")
     command = [str(exporter), "--game", str(game),

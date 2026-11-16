@@ -1,0 +1,58 @@
+@import "tailwindcss";
+@layer base {
+  body {
+    @apply bg-neutral-950 text-neutral-100 font-sans;
+  }
+  main {
+    @apply mx-auto max-w-5xl p-5;
+  }
+  header,
+  nav {
+    @apply flex flex-wrap items-center gap-3 border-b border-neutral-700 py-3;
+  }
+  header span {
+    @apply text-sm text-neutral-400;
+  }
+  h1 {
+    @apply my-4 text-3xl font-semibold;
+  }
+  h2 {
+    @apply text-xl font-semibold;
+  }
+  h3,
+  summary {
+    @apply font-medium;
+  }
+  article,
+  fieldset,
+  form {
+    @apply my-3 rounded border border-neutral-700 bg-neutral-900 p-4;
+  }
+  label {
+    @apply my-2 grid gap-1;
+  }
+  input:not([type="radio"]),
+  select,
+  textarea {
+    @apply rounded border border-neutral-600 bg-neutral-900 p-2;
+  }
+  button {
+    @apply my-1 mr-1 cursor-pointer rounded border border-neutral-600 px-3 py-1.5 hover:bg-neutral-800 disabled:cursor-default disabled:opacity-50;
+  }
+  button[aria-current="page"] {
+    @apply bg-lime-300 text-black;
+  }
+  p,
+  details {
+    @apply my-2;
+  }
+  a {
+    @apply text-lime-300 underline;
+  }
+  pre {
+    @apply overflow-auto whitespace-pre-wrap;
+  }
+  audio {
+    @apply max-w-full;
+  }
+}
