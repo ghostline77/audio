@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "bd83ce5282b069d95802028e323b8ed83d696f2d020508dd93c802027984ce07",
+  "speaker": "panam",
+  "variant": "original-1",
+  "mode": "full_reference",
+  "reference_text": "But I sensed everything was different in the north. That something great awaited me there. A bright fucking future.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "c839f17877124772609ceb6f9f6e2c72694f0ed90750436ff8121292739d37bc",
+    "reference.wav": "7e37265a9b0e7565086b86a7406c1fb9f421f07122abf2ad2df36840570c9e59"
+  },
+  "source_sha256": {
+    "embedding": "f912c9b1c701856462758a96495193b884fd3b15d502afa3222338940ee9f49f",
+    "codes": "d65b8ef4922e020870a150dd051d94929980364b3de671d3160fca513e35295c",
+    "audio": "7e37265a9b0e7565086b86a7406c1fb9f421f07122abf2ad2df36840570c9e59"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

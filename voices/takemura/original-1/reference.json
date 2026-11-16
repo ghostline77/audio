@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "ababd64886e7ee70c31295573804115ec30642f664d8f1db4863e03089d1435a",
+  "speaker": "takemura",
+  "variant": "original-1",
+  "mode": "full_reference",
+  "reference_text": "She and Yorinobu Arasaka had intimate relations... She knows how to get to him.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "065437a80be332cc79a02ee2746ffaadb2925452af1181eec20bfe3608074eba",
+    "reference.wav": "3def850788398587fd85396e78b23bb278c4d9c8d84076563b844a417b4bdc4d"
+  },
+  "source_sha256": {
+    "embedding": "bb465b120386dd7a7dc4a6c9d9575fa5d71067fbb24e9ca9af4cb0be60154da8",
+    "codes": "6525cf6b891063dbc3e5b19f4c638f3315185a1bb0265e2d41188b946c3b35bd",
+    "audio": "3def850788398587fd85396e78b23bb278c4d9c8d84076563b844a417b4bdc4d"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

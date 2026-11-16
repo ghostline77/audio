@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "7e3ff1da8f1319e855d1905dc73e5df757e5aa574886044be7ad3f7f3229994c",
+  "speaker": "jackie",
+  "variant": "original-2",
+  "mode": "full_reference",
+  "reference_text": "Hagh, you know me, I'm not all sunshine and rainbows, but... this job ain't my style.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "e664e954ff6ac623facfe0bdcf1d8fe7e5f37834788c26cab18ba719925d28d2",
+    "reference.wav": "44a276d6c4a48da7b5ea69cc4a38603a052d8841e2e5bc9da31678a41508049c"
+  },
+  "source_sha256": {
+    "embedding": "fe61fdffcb4f8dd1f83b8e58d4e184bae991a254d0a22b9cdb67affef2b3b071",
+    "codes": "c55191d394d17f5c650dd20e74d09f5f2164424d288c960d4aedd14c666d3615",
+    "audio": "44a276d6c4a48da7b5ea69cc4a38603a052d8841e2e5bc9da31678a41508049c"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

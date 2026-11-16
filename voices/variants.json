@@ -1,0 +1,1180 @@
+{
+  "schema": "ghostline-voice-library-v1",
+  "voices": {
+    "Aurore": {
+      "full_reference": "aurore/selected/reference.json",
+      "instruction": "Match the reference speaker's French-accented English. Keep the voice natural and conversational, with precise consonants and restrained confidence.",
+      "selection": {
+        "method": "Full + Instruction",
+        "date": "2026-10-12"
+      }
+    },
+    "Aymeric": {
+      "full_reference": "aymeric/selected/reference.json",
+      "instruction": "Match the reference speaker's French-accented English. Keep the voice natural and conversational, with precise consonants and restrained confidence.",
+      "selection": {
+        "method": "Full + Instruction",
+        "date": "2026-10-12"
+      }
+    },
+    "Jackie Reference 1 [neutral]": {
+      "full_reference": "jackie/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Jackie Reference 1 [original]": {
+      "full_reference": "jackie/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Jackie Reference 2 [neutral]": {
+      "full_reference": "jackie/neutral-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Jackie Reference 2 [original]": {
+      "full_reference": "jackie/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Jackie Reference 3 [original]": {
+      "full_reference": "jackie/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Johnny Reference 1 [neutral]": {
+      "full_reference": "johnny/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Johnny Reference 1 [original]": {
+      "full_reference": "johnny/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Johnny Reference 2 [neutral]": {
+      "full_reference": "johnny/neutral-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Johnny Reference 2 [original]": {
+      "full_reference": "johnny/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Johnny Reference 3 [original]": {
+      "full_reference": "johnny/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Judy Reference 1 [neutral]": {
+      "full_reference": "judy/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Judy Reference 1 [original]": {
+      "full_reference": "judy/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Judy Reference 2 [neutral]": {
+      "full_reference": "judy/neutral-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Judy Reference 2 [original]": {
+      "full_reference": "judy/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Judy Reference 3 [original]": {
+      "full_reference": "judy/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Kerry Reference 1 [neutral]": {
+      "full_reference": "kerry/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Kerry Reference 1 [original]": {
+      "full_reference": "kerry/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Kerry Reference 1 [revision2]": {
+      "full_reference": "kerry/revision2-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "revision2"
+      }
+    },
+    "Kerry Reference 2 [neutral]": {
+      "full_reference": "kerry/neutral-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Kerry Reference 2 [original]": {
+      "full_reference": "kerry/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Kerry Reference 2 [revision2]": {
+      "full_reference": "kerry/revision2-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "revision2"
+      }
+    },
+    "Kerry Reference 3 [original]": {
+      "full_reference": "kerry/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Panam Reference 1 [neutral]": {
+      "full_reference": "panam/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Panam Reference 1 [original]": {
+      "full_reference": "panam/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Panam Reference 1 [revision2]": {
+      "full_reference": "panam/revision2-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "revision2"
+      }
+    },
+    "Panam Reference 2 [neutral]": {
+      "full_reference": "panam/neutral-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Panam Reference 2 [original]": {
+      "full_reference": "panam/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Panam Reference 2 [revision2]": {
+      "full_reference": "panam/revision2-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "revision2"
+      }
+    },
+    "Panam Reference 3 [original]": {
+      "full_reference": "panam/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Placide Reference 1 [neutral]": {
+      "full_reference": "placide/neutral-1/reference.json",
+      "instruction": "Preserve the reference speaker's Haitian Creole-influenced English accent, low resonant tone and deliberate rhythm. Keep the delivery natural and calm; do not exaggerate the accent.",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Placide Reference 2 [neutral]": {
+      "full_reference": "placide/neutral-2/reference.json",
+      "instruction": "Preserve the reference speaker's Haitian Creole-influenced English accent, low resonant tone and deliberate rhythm. Keep the delivery natural and calm; do not exaggerate the accent.",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Reed Reference 1 [neutral]": {
+      "full_reference": "reed/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Reed Reference 1 [original]": {
+      "full_reference": "reed/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Reed Reference 2 [neutral]": {
+      "full_reference": "reed/neutral-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Reed Reference 2 [original]": {
+      "full_reference": "reed/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Reed Reference 3 [original]": {
+      "full_reference": "reed/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "River Reference 1 [neutral]": {
+      "full_reference": "river/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "River Reference 1 [original]": {
+      "full_reference": "river/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "River Reference 2 [neutral]": {
+      "full_reference": "river/neutral-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "River Reference 2 [original]": {
+      "full_reference": "river/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "River Reference 3 [original]": {
+      "full_reference": "river/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Songbird Reference 1 [neutral]": {
+      "full_reference": "songbird/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Songbird Reference 1 [original]": {
+      "full_reference": "songbird/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Songbird Reference 1 [revision2]": {
+      "full_reference": "songbird/revision2-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "revision2"
+      }
+    },
+    "Songbird Reference 2 [neutral]": {
+      "full_reference": "songbird/neutral-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Songbird Reference 2 [original]": {
+      "full_reference": "songbird/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Songbird Reference 2 [revision2]": {
+      "full_reference": "songbird/revision2-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "revision2"
+      }
+    },
+    "Songbird Reference 3 [original]": {
+      "full_reference": "songbird/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Takemura Reference 1 [neutral]": {
+      "full_reference": "takemura/neutral-1/reference.json",
+      "instruction": "Preserve the reference speaker's Japanese-accented English and measured syllable timing. Match the reference's natural pitch and tone. Keep the delivery calm; do not exaggerate the accent.",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Takemura Reference 1 [original]": {
+      "full_reference": "takemura/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Takemura Reference 2 [neutral]": {
+      "full_reference": "takemura/neutral-2/reference.json",
+      "instruction": "Preserve the reference speaker's Japanese-accented English and measured syllable timing. Match the reference's natural pitch and tone. Keep the delivery calm; do not exaggerate the accent.",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Takemura Reference 2 [original]": {
+      "full_reference": "takemura/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Takemura Reference 3 [original]": {
+      "full_reference": "takemura/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "V Female": {
+      "full_reference": "v-female/selected/reference.json",
+      "instruction": "",
+      "selection": {
+        "method": "full_reference",
+        "date": "2026-10-12"
+      }
+    },
+    "V Female Reference 1 [original]": {
+      "full_reference": "v-female/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "V Female Reference 2 [original]": {
+      "full_reference": "v-female/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "V Female Reference 3 [original]": {
+      "full_reference": "v-female/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "V Male": {
+      "full_reference": "v-male/selected/reference.json",
+      "instruction": "",
+      "selection": {
+        "method": "full_reference",
+        "date": "2026-10-12"
+      }
+    },
+    "V Male Reference 1 [original]": {
+      "full_reference": "v-male/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "V Male Reference 2 [original]": {
+      "full_reference": "v-male/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "V Male Reference 3 [original]": {
+      "full_reference": "v-male/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Viktor Reference 1 [neutral]": {
+      "full_reference": "viktor/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Viktor Reference 1 [original]": {
+      "full_reference": "viktor/original-1/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Viktor Reference 2 [neutral]": {
+      "full_reference": "viktor/neutral-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral"
+      }
+    },
+    "Viktor Reference 2 [original]": {
+      "full_reference": "viktor/original-2/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    },
+    "Viktor Reference 3 [original]": {
+      "full_reference": "viktor/original-3/reference.json",
+      "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+      "selection": {
+        "source_group": "original"
+      }
+    }
+  },
+  "embedding_variants": {
+    "aurore / twins-aurore-combined": {
+      "file": "aurore/embeddings/twins-aurore-combined.safetensors",
+      "dimensions": 2048,
+      "sha256": "dfd8abb04e2daf4a002e3c7fd92b66a880a68f072e19ff9e5dc48663997404ca",
+      "source_sha256": "f897aafa6ec3f67253a884af45af60be1fd5f141457d6df0a6fc1553ea9cae47",
+      "mode": "embedding_only"
+    },
+    "aurore / twins-aurore-mean": {
+      "file": "aurore/embeddings/twins-aurore-mean.safetensors",
+      "dimensions": 2048,
+      "sha256": "373763eda434fdb0a87b9dfb49a0ba327427c575f6b25e98a02b2a8c4334b328",
+      "source_sha256": "150e4aa63969802afbdb4336c6c94c3e55854a02578821916d8568f1d7d70778",
+      "mode": "embedding_only"
+    },
+    "aurore / twins-bella_net_q303_f_2d7a6928d0521000": {
+      "file": "aurore/embeddings/twins-bella_net_q303_f_2d7a6928d0521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "053c80da47b794bf4a4131ad8b21d31dc4fa175facecaac43bddc40367727c83",
+      "source_sha256": "62ff4c0a94b23ff04d1e21e52c7ac4da7a1daa4f6c5707fe1133697239364d48",
+      "mode": "embedding_only"
+    },
+    "aurore / twins-bella_net_q303_f_2d7a70d81e521000": {
+      "file": "aurore/embeddings/twins-bella_net_q303_f_2d7a70d81e521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "c919b03c57d4edd899402acf4a4a10ed24d9a50e54a17a3df027f07b6ca9b76e",
+      "source_sha256": "efcd650ddb43ab9d967f1248cfb497795f111225513ecfec0efb3c3f2292c299",
+      "mode": "embedding_only"
+    },
+    "aurore / twins-bella_net_q303_f_2d7a7bf75d521000": {
+      "file": "aurore/embeddings/twins-bella_net_q303_f_2d7a7bf75d521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "dacb49947b5ef039af70589eb62aa50b529b2aa884b000a8e301c360b995eae4",
+      "source_sha256": "d3033ec69af6497b07581816c4c7abbec5f8a6da389c48fbd1b561d64707b5d4",
+      "mode": "embedding_only"
+    },
+    "aurore / twins-bella_net_q303_f_2e61493c42521000": {
+      "file": "aurore/embeddings/twins-bella_net_q303_f_2e61493c42521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "19b99452cef63a9305fbed71d1bfce0877d600f10764340629290f8254323aac",
+      "source_sha256": "374b2aff7b0af5399b5a7f7d9cea9fbb27e02ecc4fd193e22406204a14a2ec8a",
+      "mode": "embedding_only"
+    },
+    "aurore / twins-bella_net_q303_f_2e61b79156521000": {
+      "file": "aurore/embeddings/twins-bella_net_q303_f_2e61b79156521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "9ffe71b0f62998abf085202d306c8aa095f317978a030a6cbd24ec5d66a4ea07",
+      "source_sha256": "2a6e8bcef0c447377de294e2ac8747ab64fb669a5e3f1ca771e4d0d26a1852f6",
+      "mode": "embedding_only"
+    },
+    "aurore / twins-bella_net_q303_f_2e61c0055f521000": {
+      "file": "aurore/embeddings/twins-bella_net_q303_f_2e61c0055f521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "56b13045bca8cdfaf3adf6b5720fffcda06ac0ac4ba298f45ff731703e5c2311",
+      "source_sha256": "7c002f6ba557e3e883021553f6f3addad6adc0a13e1f50509dfbe5bbe5741f91",
+      "mode": "embedding_only"
+    },
+    "aymeric / twins-aymeric-combined": {
+      "file": "aymeric/embeddings/twins-aymeric-combined.safetensors",
+      "dimensions": 2048,
+      "sha256": "570b2abfd6debc170edccd590328a0ec6e2f33898d4df94e53cf1d8156c04cc2",
+      "source_sha256": "dbc5bc09c37d8360da1703b89a33f659f9edb4106ec7ff56a4cb6d32a4dcce68",
+      "mode": "embedding_only"
+    },
+    "aymeric / twins-aymeric-mean": {
+      "file": "aymeric/embeddings/twins-aymeric-mean.safetensors",
+      "dimensions": 2048,
+      "sha256": "78c96128d45253cefcc03069aa1dfc7295db92158f33fbc08543e1f09f1ebf50",
+      "source_sha256": "d2184df442930d3c19fd6a97f5c1b4355fdb3f97d86a174dbc678ec31f44b374",
+      "mode": "embedding_only"
+    },
+    "aymeric / twins-theo_net_q303_f_2c0c5320bd4e6010": {
+      "file": "aymeric/embeddings/twins-theo_net_q303_f_2c0c5320bd4e6010.safetensors",
+      "dimensions": 2048,
+      "sha256": "c432cff0d3f6de915cd9184305d622e298a15a687f44016c87145d39fba1fca9",
+      "source_sha256": "2e55cec90d5b8a91b8c8a4263154547cff0b4ac3d160cdcb9c83e03ed51995d8",
+      "mode": "embedding_only"
+    },
+    "aymeric / twins-theo_net_q303_f_2d7b086286521000": {
+      "file": "aymeric/embeddings/twins-theo_net_q303_f_2d7b086286521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "0f1fcbce01f1e961b836c9a2fd3a6f474de5c05cd7aed5e6c0057fe1434bcbfa",
+      "source_sha256": "d4f16258fe44dc906a0580c2ee4caf664f3286bcfd5c957ebdf76baca477ac36",
+      "mode": "embedding_only"
+    },
+    "aymeric / twins-theo_net_q303_f_2e626a599f521000": {
+      "file": "aymeric/embeddings/twins-theo_net_q303_f_2e626a599f521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "00c3324b2557a1ef9010605fef84bb1987f18fc0dfdb919f04a27aa496b462b0",
+      "source_sha256": "5aeb84a4bbd3c9e29d4de64514c3124c79c63c8ea0173b782f3a0edc0033ba5d",
+      "mode": "embedding_only"
+    },
+    "aymeric / twins-theo_net_q303_f_2e626e08ae521008": {
+      "file": "aymeric/embeddings/twins-theo_net_q303_f_2e626e08ae521008.safetensors",
+      "dimensions": 2048,
+      "sha256": "19804e705aa04532de04c04e138f4b1c667d0c675ffd367e441fa622d3e9fd9c",
+      "source_sha256": "38e0ffe038e65035a2f250a5ce91f470176817bcbcdf97ac2f6c29362e8f240c",
+      "mode": "embedding_only"
+    },
+    "aymeric / twins-theo_net_q303_f_2eb33955cb521000": {
+      "file": "aymeric/embeddings/twins-theo_net_q303_f_2eb33955cb521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "975e54c5a70b263fb2eed0c49401a45b0e1be0d39eb857c8be76176854a58b37",
+      "source_sha256": "4a56fee1cc25e1cc9f0227b1cfb624edf79dc82bd0efc7e4d173562da32f00d9",
+      "mode": "embedding_only"
+    },
+    "aymeric / twins-theo_net_q303_f_2eb34ec852521000": {
+      "file": "aymeric/embeddings/twins-theo_net_q303_f_2eb34ec852521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "184d8dc7c81bfe5ea034a2ae5093cb57c7074275c274c61f9d9d8498df4e003e",
+      "source_sha256": "cadaecee53cc4858f9f2bee76824228b4ac3267764cf4c9e578c12d38137b6b5",
+      "mode": "embedding_only"
+    },
+    "jackie / vanilla-neutral-jackie_q000_f_170c2b36ca405000": {
+      "file": "jackie/embeddings/vanilla-neutral-jackie_q000_f_170c2b36ca405000.safetensors",
+      "dimensions": 2048,
+      "sha256": "22fd6d626bb059b53a437c04e7d886031ad1ecc271a8b181d399bf4a8c6efcb4",
+      "source_sha256": "a8cbaa0bb080364c49db479006ea9b4aa68e13ed7d50efa96293d1ead8334433",
+      "mode": "embedding_only"
+    },
+    "jackie / vanilla-neutral-jackie_q001_f_169ac453082ef000": {
+      "file": "jackie/embeddings/vanilla-neutral-jackie_q001_f_169ac453082ef000.safetensors",
+      "dimensions": 2048,
+      "sha256": "90ec50b1168114e7b1a61456576f92aef1d8518f2d471b29c880c725124ab6b8",
+      "source_sha256": "60cb7580815ef151e657740e6cf54a985b775af0be8cead266bd17af39047d76",
+      "mode": "embedding_only"
+    },
+    "jackie / vanilla-original-jackie_q000_f_177cf51d7d2ef000": {
+      "file": "jackie/embeddings/vanilla-original-jackie_q000_f_177cf51d7d2ef000.safetensors",
+      "dimensions": 2048,
+      "sha256": "01ba67e714415da44c7fd33aee9e62bea8c18ff43cfdcfec9e941030cbede2d0",
+      "source_sha256": "fe61fdffcb4f8dd1f83b8e58d4e184bae991a254d0a22b9cdb67affef2b3b071",
+      "mode": "embedding_only"
+    },
+    "jackie / vanilla-original-jackie_q003_f_18bc36ab772ef000": {
+      "file": "jackie/embeddings/vanilla-original-jackie_q003_f_18bc36ab772ef000.safetensors",
+      "dimensions": 2048,
+      "sha256": "a099167871b7920549cdc1875e8850767d99592bf7728c34bb7c5c9c9769b816",
+      "source_sha256": "9973fe270bcf8cb9731588066f4343e3874156462ae3e8f0b36a0733754407ab",
+      "mode": "embedding_only"
+    },
+    "jackie / vanilla-original-jackie_q005_f_1854f1b2c52cd000": {
+      "file": "jackie/embeddings/vanilla-original-jackie_q005_f_1854f1b2c52cd000.safetensors",
+      "dimensions": 2048,
+      "sha256": "6e6b73b285b4fada44f13326c45a38eb7c6eaa61849b62399833b9f674e84cfa",
+      "source_sha256": "ae6140f62dce700a201a0a2296a598b331b58980b9e2b5b602c68907ece7e6ab",
+      "mode": "embedding_only"
+    },
+    "johnny / vanilla-neutral-johnny_q302_f_2ea950b16045a000": {
+      "file": "johnny/embeddings/vanilla-neutral-johnny_q302_f_2ea950b16045a000.safetensors",
+      "dimensions": 2048,
+      "sha256": "9eecf465517b912ff556aeb99cea83bb405b688e3aaaf32cbfc7328f5c40ab1e",
+      "source_sha256": "2084a480579ee6d73939d8bdca90a108c2170562c55078b32717ebf89ab60163",
+      "mode": "embedding_only"
+    },
+    "johnny / vanilla-neutral-johnny_scene_johnny_default_f_1b21a73a932c5000": {
+      "file": "johnny/embeddings/vanilla-neutral-johnny_scene_johnny_default_f_1b21a73a932c5000.safetensors",
+      "dimensions": 2048,
+      "sha256": "3f0e803326f194eadb072e04ccdadef3e7e26c48887744bbd29447e403d2babe",
+      "source_sha256": "77ac5eee16b7b2294cd854c209a061d8e5df81d9622f41a8b8f83fd077b7dca1",
+      "mode": "embedding_only"
+    },
+    "johnny / vanilla-original-johnny_q301_f_2de105ab0b571000": {
+      "file": "johnny/embeddings/vanilla-original-johnny_q301_f_2de105ab0b571000.safetensors",
+      "dimensions": 2048,
+      "sha256": "94423b01b71a06a288fa9a131f342f91aa2b45c9e5e545d7e22dc6910b40ce56",
+      "source_sha256": "c60fb0015fbc67f42a4261da5f1797c06ba1282a14106ae1d144f014c0ad5561",
+      "mode": "embedding_only"
+    },
+    "johnny / vanilla-original-johnny_q305_f_2d7ec810fb7e1018": {
+      "file": "johnny/embeddings/vanilla-original-johnny_q305_f_2d7ec810fb7e1018.safetensors",
+      "dimensions": 2048,
+      "sha256": "b316a0756897af121daef6379ea4eeae173c7fea7f502683cf72a23a32bdc247",
+      "source_sha256": "bfae380dc4e1ab286065a9cc2bd633ee5a3406853c7706f8aa8733034937cb1b",
+      "mode": "embedding_only"
+    },
+    "johnny / vanilla-original-johnny_sts_ep1_13_f_2cc4278c4e559000": {
+      "file": "johnny/embeddings/vanilla-original-johnny_sts_ep1_13_f_2cc4278c4e559000.safetensors",
+      "dimensions": 2048,
+      "sha256": "f28f09dd1a032545189e725c59b1df1002b7bf9ca7c06851310c0793bd3108f0",
+      "source_sha256": "e3a17a0454e3ce993431c040440cd044ad683b9b647747e0ae27d2f45848bca6",
+      "mode": "embedding_only"
+    },
+    "judy / vanilla-neutral-judy_scene_judy_default_f_1afc12f00d2fc000": {
+      "file": "judy/embeddings/vanilla-neutral-judy_scene_judy_default_f_1afc12f00d2fc000.safetensors",
+      "dimensions": 2048,
+      "sha256": "ddee664ad5ab299336dacb745f3c70789fd2285261220fd61cdaf968b4919c13",
+      "source_sha256": "677a31fe0ffa952091f4aa045c3ed29777cc3a8bd116af72974280b0dc526d0e",
+      "mode": "embedding_only"
+    },
+    "judy / vanilla-neutral-judy_scene_judy_default_f_1b07ecef852b6000": {
+      "file": "judy/embeddings/vanilla-neutral-judy_scene_judy_default_f_1b07ecef852b6000.safetensors",
+      "dimensions": 2048,
+      "sha256": "dabf05dc8b61390e4f73655c61104ad8ef1ea6313a4463ae738bdc1974f843d0",
+      "source_sha256": "469e2de75f86f519d1982846c655c21eb3de39e69bd2ad676feaf893614e5387",
+      "mode": "embedding_only"
+    },
+    "judy / vanilla-original-judy_scene_judy_default_f_1afc392b022fc000": {
+      "file": "judy/embeddings/vanilla-original-judy_scene_judy_default_f_1afc392b022fc000.safetensors",
+      "dimensions": 2048,
+      "sha256": "95ec47013e48ce979e468d4e96f8e1b4939ddf542e591aa3948995cb1083bd1c",
+      "source_sha256": "4a7b46ec17c535d7f83d058f1a08f1d7741f126313d8cc9cf6303e1b546ced8b",
+      "mode": "embedding_only"
+    },
+    "judy / vanilla-original-judy_scene_judy_default_f_2ffe0b95b2571000": {
+      "file": "judy/embeddings/vanilla-original-judy_scene_judy_default_f_2ffe0b95b2571000.safetensors",
+      "dimensions": 2048,
+      "sha256": "4045244e9a3b0dbfd573e4c935ba2263e99a7fccf1e8cb71404f889e42abe59a",
+      "source_sha256": "7387b384b4832dbc6bfeee6de6ec535253d874628f97fca1677e0865ccae7230",
+      "mode": "embedding_only"
+    },
+    "judy / vanilla-original-judy_sq030_f_18fa36f3f82b6000": {
+      "file": "judy/embeddings/vanilla-original-judy_sq030_f_18fa36f3f82b6000.safetensors",
+      "dimensions": 2048,
+      "sha256": "d201cb889408a19a01c936a8451ec9cfde2bf712d618c5dbc7c24a2ff0a2fdc8",
+      "source_sha256": "7f6ea2fb3108505a6e8b977a38ab003482c3406b842d43f2e2155c6f9fad8e05",
+      "mode": "embedding_only"
+    },
+    "kerry / vanilla-neutral-kerry_scene_kerry_default_f_1ae79b60fc29f000": {
+      "file": "kerry/embeddings/vanilla-neutral-kerry_scene_kerry_default_f_1ae79b60fc29f000.safetensors",
+      "dimensions": 2048,
+      "sha256": "0b3a42e16dbc1a0a45fc5ca22cb5e76d8ab1ee857d7217b4a9d84bfde6797d16",
+      "source_sha256": "14ea22d4a8852f399753554e1a3c22d04f7a7cde46cfaef643c88db7a449b46c",
+      "mode": "embedding_only"
+    },
+    "kerry / vanilla-neutral-kerry_scene_kerry_default_f_1ae7ba17b529f000": {
+      "file": "kerry/embeddings/vanilla-neutral-kerry_scene_kerry_default_f_1ae7ba17b529f000.safetensors",
+      "dimensions": 2048,
+      "sha256": "8847f4ecaa725acaf7f429ef8ddb64c01b4126cec45c8754a09342773e5157f8",
+      "source_sha256": "dccf7fe6075a1852d6a90960094b45ebb9e003edb864b2d32e0a74b5fe0652fe",
+      "mode": "embedding_only"
+    },
+    "kerry / vanilla-original-kerry_scene_kerry_default_f_1abf5e829f29f010": {
+      "file": "kerry/embeddings/vanilla-original-kerry_scene_kerry_default_f_1abf5e829f29f010.safetensors",
+      "dimensions": 2048,
+      "sha256": "056b7dc895bd5a7811f6c09923d69d1f7c8948f8da86a3877eb415d31d4b201d",
+      "source_sha256": "ac57d66e009dfca62b3bf768e9fdabebabf72c4199176d53bd666ab3824f87ab",
+      "mode": "embedding_only"
+    },
+    "kerry / vanilla-original-kerry_scene_kerry_default_f_1ae78edb5929f000": {
+      "file": "kerry/embeddings/vanilla-original-kerry_scene_kerry_default_f_1ae78edb5929f000.safetensors",
+      "dimensions": 2048,
+      "sha256": "b25af53c49343ca6ecb3768c79e68b72f0b0648142410ed8580a710adaf630a2",
+      "source_sha256": "b546796495d080f4ef0da1f6c59d4c3ff7b02ceeca1dbf19efb8511e2905c9e3",
+      "mode": "embedding_only"
+    },
+    "kerry / vanilla-original-kerry_sq017_f_17a0304cff656010": {
+      "file": "kerry/embeddings/vanilla-original-kerry_sq017_f_17a0304cff656010.safetensors",
+      "dimensions": 2048,
+      "sha256": "f2ac0c07a2b51328709b99046a111528abd9d4e58da82b1eee865aab40cd2837",
+      "source_sha256": "b19e76e5ce61ad2ed3ed772382a23f1b560ef0dfdf1bd0dd5570b9185731852b",
+      "mode": "embedding_only"
+    },
+    "kerry / vanilla-revision2-kerry_sq011_f_190a5e25834b6000": {
+      "file": "kerry/embeddings/vanilla-revision2-kerry_sq011_f_190a5e25834b6000.safetensors",
+      "dimensions": 2048,
+      "sha256": "53db95e45d23fd07238b6e43d1d375309080a4245bea51ce1f330a3275afdbd6",
+      "source_sha256": "182f454e0538497345205ae76486bfcf773ff3987de4c3290b253bda2f825f2a",
+      "mode": "embedding_only"
+    },
+    "kerry / vanilla-revision2-kerry_sq028_f_13298026f029f000": {
+      "file": "kerry/embeddings/vanilla-revision2-kerry_sq028_f_13298026f029f000.safetensors",
+      "dimensions": 2048,
+      "sha256": "da362558867fe1f632f7644e60ecda234a601a5135a0991d9dc5bb1558ad65ad",
+      "source_sha256": "24e9d1d94b2bc8456dd0a279e6e2956c4b86a99ebec4f29ffca8a61794469155",
+      "mode": "embedding_only"
+    },
+    "panam / vanilla-neutral-panam_q103_f_1b6d37e71329f000": {
+      "file": "panam/embeddings/vanilla-neutral-panam_q103_f_1b6d37e71329f000.safetensors",
+      "dimensions": 2048,
+      "sha256": "fdcd1e64edb39936aa193a49e40a42f33aac2bec432bd83a311601a2bea4ee7d",
+      "source_sha256": "541afbe80ac308d901f03aadcb616841411a6cbf97cbae526a8c33daa3e1692e",
+      "mode": "embedding_only"
+    },
+    "panam / vanilla-neutral-panam_q202_f_17ab7059302cd000": {
+      "file": "panam/embeddings/vanilla-neutral-panam_q202_f_17ab7059302cd000.safetensors",
+      "dimensions": 2048,
+      "sha256": "96bcb03de17eba0f678dcba4ade37e3687ea6a504899a4bbbf866838bebf7d45",
+      "source_sha256": "d5568aa83a1a6f9777835e3a80f3d73f25f3259b8d5f87d7dd673f2537f2be6d",
+      "mode": "embedding_only"
+    },
+    "panam / vanilla-original-panam_q104_f_1512bf05ca502000": {
+      "file": "panam/embeddings/vanilla-original-panam_q104_f_1512bf05ca502000.safetensors",
+      "dimensions": 2048,
+      "sha256": "9ae6405966506119764be1aeb8a715621562fe182e1a1b95a0b0d910fbc5f23e",
+      "source_sha256": "3e61c778c4bbc4f7431c1bf840c7d68c7bbb5e64a334cacc2c8fc4b0b1793314",
+      "mode": "embedding_only"
+    },
+    "panam / vanilla-original-panam_q104_f_177c1d4a7629f000": {
+      "file": "panam/embeddings/vanilla-original-panam_q104_f_177c1d4a7629f000.safetensors",
+      "dimensions": 2048,
+      "sha256": "b94dce7a5eef282de7f24f3574450c9c94eb40ec05d02756db12812b6e900b18",
+      "source_sha256": "e3afbaf001ba46cf187e80f62ad8df1674c7f5f84f63263e43b513f017c86814",
+      "mode": "embedding_only"
+    },
+    "panam / vanilla-original-panam_q202_f_19dbb5d51b29f008": {
+      "file": "panam/embeddings/vanilla-original-panam_q202_f_19dbb5d51b29f008.safetensors",
+      "dimensions": 2048,
+      "sha256": "f46dd8cc4b77c58461511285a891b6d4990bcb268f5c8f5bdc0d9b4c44496156",
+      "source_sha256": "f912c9b1c701856462758a96495193b884fd3b15d502afa3222338940ee9f49f",
+      "mode": "embedding_only"
+    },
+    "panam / vanilla-revision2-panam_q103_f_171ab9cf2d29f000": {
+      "file": "panam/embeddings/vanilla-revision2-panam_q103_f_171ab9cf2d29f000.safetensors",
+      "dimensions": 2048,
+      "sha256": "922ae40b983f7c87cb665cb71fc5dc3d9ba49a857c67006daf57f89e1317ea59",
+      "source_sha256": "4e311cb52c907cc206339dfa30b267a0acd84d2532ebcc05af5419c32206b190",
+      "mode": "embedding_only"
+    },
+    "panam / vanilla-revision2-panam_q114_f_1974cf338a2cd000": {
+      "file": "panam/embeddings/vanilla-revision2-panam_q114_f_1974cf338a2cd000.safetensors",
+      "dimensions": 2048,
+      "sha256": "ac01f78713c0017f2a04bf1e775744e8583fc92e9af92c9cb26f4c73eae25d7b",
+      "source_sha256": "7847ab60b95a3c7629e5293cc63a1ba974988f7309ce84a3feee0896ad3f82e4",
+      "mode": "embedding_only"
+    },
+    "placide / vanilla-neutral-placide_q110_f_15acf46cdf351000": {
+      "file": "placide/embeddings/vanilla-neutral-placide_q110_f_15acf46cdf351000.safetensors",
+      "dimensions": 2048,
+      "sha256": "0fcd9d18e8b3bf65107dc2802b45474f2977d52526c524992271c724ce0ebde3",
+      "source_sha256": "04b1b4d2089d54cacecbd1d93033943c4ae58476a54e44758b2149b2b2a68cf8",
+      "mode": "embedding_only"
+    },
+    "placide / vanilla-neutral-placide_q110_f_1b5387c26e2c5000": {
+      "file": "placide/embeddings/vanilla-neutral-placide_q110_f_1b5387c26e2c5000.safetensors",
+      "dimensions": 2048,
+      "sha256": "0f37f96f405a12af4bafc9e6f72bbc768268fc4c807bcc47ea5e882a44436617",
+      "source_sha256": "dd6b81340e8e0af209060cdab7e7ec3c88b17f87eae8fb5cd3041860189b0b3b",
+      "mode": "embedding_only"
+    },
+    "reed / vanilla-neutral-reed_q304_f_281a77d720405000": {
+      "file": "reed/embeddings/vanilla-neutral-reed_q304_f_281a77d720405000.safetensors",
+      "dimensions": 2048,
+      "sha256": "ddbd8e3e92281c09bbc812490937afe911948cbb21c03ae1608cf2a0c98cb731",
+      "source_sha256": "c29620c271c38ed0318a9d4fea1fe4d02ee2274b6368a2614b2333c7d4bfeabe",
+      "mode": "embedding_only"
+    },
+    "reed / vanilla-neutral-reed_q307_f_2e5744ae4f3bc000": {
+      "file": "reed/embeddings/vanilla-neutral-reed_q307_f_2e5744ae4f3bc000.safetensors",
+      "dimensions": 2048,
+      "sha256": "76e13e89888023680914ac6b4cf011c7649467f0ceda23cdfbd8d6d36954d28d",
+      "source_sha256": "0e45efef40312dbedbc92e3c7809f3c51ca89c62339e85765fb5fd840456672c",
+      "mode": "embedding_only"
+    },
+    "reed / vanilla-original-reed_q304_f_304f60d6bc42c000": {
+      "file": "reed/embeddings/vanilla-original-reed_q304_f_304f60d6bc42c000.safetensors",
+      "dimensions": 2048,
+      "sha256": "d5ec6f351e8533b369062b0e2c1bd1ea98e8c2ecbd21e0976723136c0eec9504",
+      "source_sha256": "4c932324d7f718749b3cd95d696334cba6a959351447a532dc34162e8887fecc",
+      "mode": "embedding_only"
+    },
+    "reed / vanilla-original-reed_q305_f_2cd495d3d442f000": {
+      "file": "reed/embeddings/vanilla-original-reed_q305_f_2cd495d3d442f000.safetensors",
+      "dimensions": 2048,
+      "sha256": "a09ba669dec5a0c656915059e080a7d2153a6fb75e8a701ce4632b23fed3adc6",
+      "source_sha256": "d6ea925d5d21c9616ebd6915a90313f2ad74cc6ec0a2f50ad3149d004ef02678",
+      "mode": "embedding_only"
+    },
+    "reed / vanilla-original-reed_q305_f_2cd88d3d9942f000": {
+      "file": "reed/embeddings/vanilla-original-reed_q305_f_2cd88d3d9942f000.safetensors",
+      "dimensions": 2048,
+      "sha256": "9a80f46ae66430e6a26abc742d85d4fbb62f4d3ceee609bff7069dcf9036c4db",
+      "source_sha256": "1bcef1e9d35144b6355577380c3a9369304855a7d2d42630b0bf5779f0443219",
+      "mode": "embedding_only"
+    },
+    "river / vanilla-neutral-sobchak_scene_sobchak_default_f_1aed1c9c79521000": {
+      "file": "river/embeddings/vanilla-neutral-sobchak_scene_sobchak_default_f_1aed1c9c79521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "08043d31e5e7b811a35dfe39b67dd06796af2e196ede35b1a58164826feac7a5",
+      "source_sha256": "82344377cc10f83675c1227b2ed26eeec4eafb4851c1bd02807268cb59fa0b7c",
+      "mode": "embedding_only"
+    },
+    "river / vanilla-neutral-sobchak_scene_sobchak_default_f_1aed230fb0521000": {
+      "file": "river/embeddings/vanilla-neutral-sobchak_scene_sobchak_default_f_1aed230fb0521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "f7e9c210071d4d1df88f2f145f21a4c0fad76a238d6a25826b6cb627c19393a2",
+      "source_sha256": "17f8facc7f1839b194c8316be96410d1a3bed0646c68c3d5d5d5c65fa7292d88",
+      "mode": "embedding_only"
+    },
+    "river / vanilla-original-sobchak_finalboards_f_18fee62d063bc000": {
+      "file": "river/embeddings/vanilla-original-sobchak_finalboards_f_18fee62d063bc000.safetensors",
+      "dimensions": 2048,
+      "sha256": "2778fd2ecfedaa654d6d6e7a2f02ead06453cc3a215d6046749e339933c37c9b",
+      "source_sha256": "9b775bd31e702f1c5a8e74a6d7022e01435cb25260cf67d009be529de9a07eb6",
+      "mode": "embedding_only"
+    },
+    "river / vanilla-original-sobchak_q203_f_18e4888e5829f000": {
+      "file": "river/embeddings/vanilla-original-sobchak_q203_f_18e4888e5829f000.safetensors",
+      "dimensions": 2048,
+      "sha256": "ea46a2436b462149d1e2f746ba5e91612e201c9b2552d943a4f0e4eda3412921",
+      "source_sha256": "9c100b90405ed7949dc3124dd1f945b7db7f0ef2daada2de34d15a39b948d10d",
+      "mode": "embedding_only"
+    },
+    "river / vanilla-original-sobchak_sq021_f_179b45ce395f9000": {
+      "file": "river/embeddings/vanilla-original-sobchak_sq021_f_179b45ce395f9000.safetensors",
+      "dimensions": 2048,
+      "sha256": "77312d2cfbc084b4325110d582a0422fce50af802d9ad2ada08e112d958ed6c7",
+      "source_sha256": "a32da4db1ec1e123a5ed0aa9e1b1fea0a93d65185f0d01589668415819394d7f",
+      "mode": "embedding_only"
+    },
+    "songbird / vanilla-neutral-songbird_q301_f_30822a3fb145a000": {
+      "file": "songbird/embeddings/vanilla-neutral-songbird_q301_f_30822a3fb145a000.safetensors",
+      "dimensions": 2048,
+      "sha256": "66691715bdf1342f94284c016cd44bcbda61782b5d5a4498a2b530b7d652672f",
+      "source_sha256": "569893ae6ee0dcac9baa81a6baac7b61296b7fd5417dc3e636e9cdb01a871aa4",
+      "mode": "embedding_only"
+    },
+    "songbird / vanilla-neutral-songbird_q306_f_2cde656085518014": {
+      "file": "songbird/embeddings/vanilla-neutral-songbird_q306_f_2cde656085518014.safetensors",
+      "dimensions": 2048,
+      "sha256": "2404ae571a99127fc7b5325451016a5721b3367b2e538af6e0367e491eb9d41d",
+      "source_sha256": "b6b8631333ae998c29993f5ee525112092c37894e33acf9fdf3fcf7034e75178",
+      "mode": "embedding_only"
+    },
+    "songbird / vanilla-original-songbird_q305_f_2a400ded0d42f000": {
+      "file": "songbird/embeddings/vanilla-original-songbird_q305_f_2a400ded0d42f000.safetensors",
+      "dimensions": 2048,
+      "sha256": "d543ed2b337241329bb6b07f4f2654107d8208ad597aa5ef57daca33bc344a0e",
+      "source_sha256": "a0344872e26f5e8a93b09e01807501e3cbaa6e4749520647ae8b8ed973b3d27d",
+      "mode": "embedding_only"
+    },
+    "songbird / vanilla-original-songbird_q305_f_2cd92af7ef5b6048": {
+      "file": "songbird/embeddings/vanilla-original-songbird_q305_f_2cd92af7ef5b6048.safetensors",
+      "dimensions": 2048,
+      "sha256": "c50319d16cdace49d101059b2737edd473f4426e212b685529095b0737bc5e73",
+      "source_sha256": "2082ba8253d13828d97b166fd208a58aee20d8dad8acf67dbae240241d63a541",
+      "mode": "embedding_only"
+    },
+    "songbird / vanilla-original-songbird_q306_f_2dd7087acf8ae000": {
+      "file": "songbird/embeddings/vanilla-original-songbird_q306_f_2dd7087acf8ae000.safetensors",
+      "dimensions": 2048,
+      "sha256": "88985eea4b1b5b2d0a1595a8cb7b1d489f20b548f073c8e09cd7de58d98ffe61",
+      "source_sha256": "f4f14d9850a3736d9f8ac4df3a1a92592602d836acfe054fbc17999c87c83eba",
+      "mode": "embedding_only"
+    },
+    "songbird / vanilla-revision2-songbird_q303_f_30880f48cc521000": {
+      "file": "songbird/embeddings/vanilla-revision2-songbird_q303_f_30880f48cc521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "4b5d5de67e957552e20b80bc620bd6f52bd2cf33d16fd25d9b50cb8515a8f00c",
+      "source_sha256": "25cd83bdcc73a71012a0152cde558113ebe896895a68fef27aabcd1b65ea3885",
+      "mode": "embedding_only"
+    },
+    "songbird / vanilla-revision2-songbird_q303_f_30887c3d9e521000": {
+      "file": "songbird/embeddings/vanilla-revision2-songbird_q303_f_30887c3d9e521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "4cdf65d2cb6aaaab7ecfd751f58d77c575c65933d52448230b7cd74f3779ac67",
+      "source_sha256": "3b28b6cbc455661cd13554f7141707544f0bfb967943d96b13d6b122da47a76d",
+      "mode": "embedding_only"
+    },
+    "takemura / vanilla-neutral-takemura_q112_f_1c46d70918386000": {
+      "file": "takemura/embeddings/vanilla-neutral-takemura_q112_f_1c46d70918386000.safetensors",
+      "dimensions": 2048,
+      "sha256": "999a5957f3e0e46609776de9160798333333035b3defc5141603c04dedf1041c",
+      "source_sha256": "d372fd724863b88625813051326788a7c30c5f8fc42eb98aebd2f0b7a079650e",
+      "mode": "embedding_only"
+    },
+    "takemura / vanilla-neutral-takemura_q201_f_1c04a4d2d4386000": {
+      "file": "takemura/embeddings/vanilla-neutral-takemura_q201_f_1c04a4d2d4386000.safetensors",
+      "dimensions": 2048,
+      "sha256": "0e053583422278d51cd60bbbac28c76a5da04fef45d33eef9f0dfb52ef5fdf2c",
+      "source_sha256": "fe2f87c2f50111b261430486979b14efe144a28c7c560fd4cbab0a3e8216e7f2",
+      "mode": "embedding_only"
+    },
+    "takemura / vanilla-original-takemura_q101_f_1b694f25ae386000": {
+      "file": "takemura/embeddings/vanilla-original-takemura_q101_f_1b694f25ae386000.safetensors",
+      "dimensions": 2048,
+      "sha256": "dedd90c390011df78fa620485c57d88b772d4205a91dd2facd6b66ba58a90c44",
+      "source_sha256": "bb465b120386dd7a7dc4a6c9d9575fa5d71067fbb24e9ca9af4cb0be60154da8",
+      "mode": "embedding_only"
+    },
+    "takemura / vanilla-original-takemura_q112_f_17a65205b6404000": {
+      "file": "takemura/embeddings/vanilla-original-takemura_q112_f_17a65205b6404000.safetensors",
+      "dimensions": 2048,
+      "sha256": "0445060d06c3ed2041c6de2a605f9a9c3bcae082603ae65c869d749bd83e645e",
+      "source_sha256": "1de3a811e8eb356898407a858e553c45d05d8c5898abf9a43be41fded00fd5e2",
+      "mode": "embedding_only"
+    },
+    "takemura / vanilla-original-takemura_q201_f_1bd00d148e5f9004": {
+      "file": "takemura/embeddings/vanilla-original-takemura_q201_f_1bd00d148e5f9004.safetensors",
+      "dimensions": 2048,
+      "sha256": "a5e7a588249b764fe7dd8a73ff2ba51ffbf46caf23a052380cef870b507d2f94",
+      "source_sha256": "49fcbde7fb78b1b3374d5e32f978cc393e7147569928373330ee7c9999f27f58",
+      "mode": "embedding_only"
+    },
+    "v / legacy-v": {
+      "file": "v/embeddings/legacy-v.safetensors",
+      "dimensions": 2048,
+      "sha256": "310ffbc711f152affefcf956134e96b41ff85272bd9be90a81c8cc0efe5df15a",
+      "source_sha256": "45067f0049ac5cdc6a1ede9e5a9e3cc5783a89b077d6178c3f160a2e65e3b297",
+      "mode": "embedding_only"
+    },
+    "v-female / v-neutral-v-female-concat": {
+      "file": "v-female/embeddings/v-neutral-v-female-concat.safetensors",
+      "dimensions": 2048,
+      "sha256": "078f3ef116da5de970f2f894e1e9c71046f5142ed0d17961e60d34dac463008a",
+      "source_sha256": "0b14ced42e8fb301debf646b40b85e2b0f0802b2b551fa1ab6f3e45004dffc9f",
+      "mode": "embedding_only"
+    },
+    "v-female / v-neutral-v-female-mean": {
+      "file": "v-female/embeddings/v-neutral-v-female-mean.safetensors",
+      "dimensions": 2048,
+      "sha256": "3b5734ba3c3c147fb7990928ee7a263489f0a062919ed9767075c95de4651f93",
+      "source_sha256": "5f22e7819f5fa59df082f9cc1a48e4cd9eac8534a2c7b0bf453a80de8d6f1460",
+      "mode": "embedding_only"
+    },
+    "v-female / v-neutral-v_scene_judy_default_f_1afbf600e22fc000": {
+      "file": "v-female/embeddings/v-neutral-v_scene_judy_default_f_1afbf600e22fc000.safetensors",
+      "dimensions": 2048,
+      "sha256": "d631d9350923d3d0b5c96b8ee001869089e429b7e7a361ddee1fc9423b0a799b",
+      "source_sha256": "337660bfdf480cc1640ebc9e6d0d91cdd9ef1a5c897a2c5834f1d87cb515172f",
+      "mode": "embedding_only"
+    },
+    "v-female / v-neutral-v_scene_judy_default_f_1b07a026312b6000": {
+      "file": "v-female/embeddings/v-neutral-v_scene_judy_default_f_1b07a026312b6000.safetensors",
+      "dimensions": 2048,
+      "sha256": "76af29606f76b181bbb482443dd3998ac4f6edf0d8acb45acc971e8fe85ce072",
+      "source_sha256": "e25251f20b203054abcaa4d47edbf08a39cea2c1de7710d28a4f086aa5f94c9f",
+      "mode": "embedding_only"
+    },
+    "v-female / v-neutral-v_scene_kerry_default_f_1abf5e829a29f004": {
+      "file": "v-female/embeddings/v-neutral-v_scene_kerry_default_f_1abf5e829a29f004.safetensors",
+      "dimensions": 2048,
+      "sha256": "1df45667be9d0ad674c93ce30b6ab2a3a852e64931b52829f00a64c22e998f45",
+      "source_sha256": "330ab4f3b9c810c4355c8d04260b0c3d3132c7211e1e4b63c8a6035228e78007",
+      "mode": "embedding_only"
+    },
+    "v-female / v-neutral-v_scene_kerry_default_f_1abf5e82a229f004": {
+      "file": "v-female/embeddings/v-neutral-v_scene_kerry_default_f_1abf5e82a229f004.safetensors",
+      "dimensions": 2048,
+      "sha256": "91f45efaa6107c5845b197668ec046a1b6c6c9f00ef0f15906ba669a582b06a6",
+      "source_sha256": "14a418da0a94e644b42b4b01d4901739fbcecd80ebe1aba7e58f98d914830eaf",
+      "mode": "embedding_only"
+    },
+    "v-female / v-neutral-v_scene_kerry_default_f_1abf5e82a629f004": {
+      "file": "v-female/embeddings/v-neutral-v_scene_kerry_default_f_1abf5e82a629f004.safetensors",
+      "dimensions": 2048,
+      "sha256": "77fbc17daebac92d68fd448264b2cc0f2d80bcc89a55ca015c56b798fb5ebc43",
+      "source_sha256": "b0fc6696243a2d87fcf2e3d0aa361302eccbd8ee96d32c6f0c536c5a7f2a1f08",
+      "mode": "embedding_only"
+    },
+    "v-female / v-neutral-v_scene_sobchak_default_f_1ae8cecef1521000": {
+      "file": "v-female/embeddings/v-neutral-v_scene_sobchak_default_f_1ae8cecef1521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "67abcdfc3815a735e7b08440aff951b05774ba4a3995bc2c7168f91f99061961",
+      "source_sha256": "4d9d8de843dbaf92231a0dd7ee5b3869ed764e64e8fa5b1124445fb6814f7406",
+      "mode": "embedding_only"
+    },
+    "v-female / vanilla-original-v_q301_f_2e6af73a19571000": {
+      "file": "v-female/embeddings/vanilla-original-v_q301_f_2e6af73a19571000.safetensors",
+      "dimensions": 2048,
+      "sha256": "9a1be9f852590409914598b4ca3aa1912ed805c16f40c7322328492411564d1e",
+      "source_sha256": "166c1dc55a47568dbc43d93bc2b89ae16f221c57298cb7aa2cfd220177c05905",
+      "mode": "embedding_only"
+    },
+    "v-female / vanilla-original-v_q307_f_2f05d9401e3bc000": {
+      "file": "v-female/embeddings/vanilla-original-v_q307_f_2f05d9401e3bc000.safetensors",
+      "dimensions": 2048,
+      "sha256": "f09b424a4d62bbf69bd05b537388f78dc978d92e4894b06d2bfacc0424211e96",
+      "source_sha256": "ed078d9cfe3ad14e6cb5ea59b1c82e0a2b39be4216a70ba079623a68046d1647",
+      "mode": "embedding_only"
+    },
+    "v-female / vanilla-original-v_scene_kerry_default_f_2fd932e8607df000": {
+      "file": "v-female/embeddings/vanilla-original-v_scene_kerry_default_f_2fd932e8607df000.safetensors",
+      "dimensions": 2048,
+      "sha256": "0dc7d9477591f861b0be606ccaed9c58c860c6de103110155be86930efa00a51",
+      "source_sha256": "caa2fe572fcdc7401dec839ca49edb40335c0661b35fab2687ec5373b5e4c150",
+      "mode": "embedding_only"
+    },
+    "v-male / gqt006-v-male": {
+      "file": "v-male/embeddings/gqt006-v-male.safetensors",
+      "dimensions": 2048,
+      "sha256": "9d2af602eaec4e3a63795c084067954d1ef8b9d2af68f76fd491209b1d1bfac2",
+      "source_sha256": "204ee0beed295cc83dc87ca3fa962e037bfb5558246fc4181516a3b812be105e",
+      "mode": "embedding_only"
+    },
+    "v-male / gqt006-v-male-multiline": {
+      "file": "v-male/embeddings/gqt006-v-male-multiline.safetensors",
+      "dimensions": 2048,
+      "sha256": "1cd29c6465ca3d3629e859213c273ea8c0e4817a581f04eb656261109cc05231",
+      "source_sha256": "81bd871e2540e4403d77d14d03bba05a59dfca04512e56e1bdff250c096a6f61",
+      "mode": "embedding_only"
+    },
+    "v-male / v-neutral-v-male-concat": {
+      "file": "v-male/embeddings/v-neutral-v-male-concat.safetensors",
+      "dimensions": 2048,
+      "sha256": "8d380060b4683cf813b14de300294ae0804c76bc835b1bc999e9af0640748b4b",
+      "source_sha256": "5e2923400442feca966fc74833bc95aaa756c61acc596673869cdd7572afa351",
+      "mode": "embedding_only"
+    },
+    "v-male / v-neutral-v-male-mean": {
+      "file": "v-male/embeddings/v-neutral-v-male-mean.safetensors",
+      "dimensions": 2048,
+      "sha256": "7cd6343d5262aa1e5d5fbbdcaa6329654e7913639b2e64932e6d77ebaa4a3379",
+      "source_sha256": "a3bc53eeda16d24b64083e3e7ae7196a33077f183db7c3c3b5b6e151c7bc1198",
+      "mode": "embedding_only"
+    },
+    "v-male / v-neutral-v_scene_judy_default_m_1afbf600e22fc000": {
+      "file": "v-male/embeddings/v-neutral-v_scene_judy_default_m_1afbf600e22fc000.safetensors",
+      "dimensions": 2048,
+      "sha256": "f4b8be3d52ff64f530e3702ad3f7f8c7d0fdb64c7fce2cb8bff07354fac4153d",
+      "source_sha256": "2c4927519796634aa55790a2df90c45fa0e74b36770e5b37d7af9d83e6d6b25a",
+      "mode": "embedding_only"
+    },
+    "v-male / v-neutral-v_scene_judy_default_m_1b07a026312b6000": {
+      "file": "v-male/embeddings/v-neutral-v_scene_judy_default_m_1b07a026312b6000.safetensors",
+      "dimensions": 2048,
+      "sha256": "5ac849239b5b403f389c1ccd4b1d9c954a7e5b2ee33ef92cc4ea9963b07566bd",
+      "source_sha256": "123c5f7f0a18b410942f4109576a62d98a90d44372adb59a707ce3cfa2cfd845",
+      "mode": "embedding_only"
+    },
+    "v-male / v-neutral-v_scene_kerry_default_m_1abf5e829a29f004": {
+      "file": "v-male/embeddings/v-neutral-v_scene_kerry_default_m_1abf5e829a29f004.safetensors",
+      "dimensions": 2048,
+      "sha256": "c6dcd75937beff868ba41d5e61ce8f46b36b44c31fcc25c7b584cd54d168ea10",
+      "source_sha256": "cc069da52771e94eaca21faeb292ddc3e621cb08a13ce7ef4a0b2ecaf7d64bd8",
+      "mode": "embedding_only"
+    },
+    "v-male / v-neutral-v_scene_kerry_default_m_1abf5e82a229f004": {
+      "file": "v-male/embeddings/v-neutral-v_scene_kerry_default_m_1abf5e82a229f004.safetensors",
+      "dimensions": 2048,
+      "sha256": "3cc2ed6f8471039360ce930ad938657a3c46130fda244a3f3bcc302621ab14d7",
+      "source_sha256": "0b5feee4072b8f3fe2119e930e7def8cb682c5ac09a2d97a8abb6dcbc4baed2a",
+      "mode": "embedding_only"
+    },
+    "v-male / v-neutral-v_scene_kerry_default_m_1abf5e82a629f004": {
+      "file": "v-male/embeddings/v-neutral-v_scene_kerry_default_m_1abf5e82a629f004.safetensors",
+      "dimensions": 2048,
+      "sha256": "88aca8520f88fb803c4d47aa31d07db2dfb7b2ff000d366e6ea6691ca19fe63b",
+      "source_sha256": "6b7a4df3fd2dd42f62d4718bc8ce764249739706b37b75313078e34c6a69824b",
+      "mode": "embedding_only"
+    },
+    "v-male / v-neutral-v_scene_sobchak_default_m_1ae8cecef1521000": {
+      "file": "v-male/embeddings/v-neutral-v_scene_sobchak_default_m_1ae8cecef1521000.safetensors",
+      "dimensions": 2048,
+      "sha256": "ee32fa1d9b4310cd5a93e53cc2be1ee87fb3da35691f4c35d565f81fd23840ff",
+      "source_sha256": "99113b876b71ace7dcf662caa299e9ed9130e9ac62a7e728ff4be60b82046009",
+      "mode": "embedding_only"
+    },
+    "v-male / vanilla-original-v_mq015_m_1993ac7b0744d000": {
+      "file": "v-male/embeddings/vanilla-original-v_mq015_m_1993ac7b0744d000.safetensors",
+      "dimensions": 2048,
+      "sha256": "7d5e614ede1b405bff6d92b6cd5df4686c358d4f888336008241ec9efd1ec5cb",
+      "source_sha256": "6bb0201767f217f64d8af1ce45106d6132c951779939e61fdb52cf9017baa4d3",
+      "mode": "embedding_only"
+    },
+    "v-male / vanilla-original-v_q301_m_2e6af73a19571000": {
+      "file": "v-male/embeddings/vanilla-original-v_q301_m_2e6af73a19571000.safetensors",
+      "dimensions": 2048,
+      "sha256": "bb0f11952485b19aaacfcdd74f3b639e0b1b7219c25c684ac5805373a43bab47",
+      "source_sha256": "af2a68ed007d6f9501a89b7e6c6336362be4832f588534c14a6575bd0a700267",
+      "mode": "embedding_only"
+    },
+    "v-male / vanilla-original-v_sq006_m_1492218c5f49d000": {
+      "file": "v-male/embeddings/vanilla-original-v_sq006_m_1492218c5f49d000.safetensors",
+      "dimensions": 2048,
+      "sha256": "0b8dc4282245126941773ffcce4ca6038eae597555eae00719f13ac93941f0c2",
+      "source_sha256": "2ee854b80ff3379c173a9191dc24d53028e683ed06172e35bcc62cfcd10807d8",
+      "mode": "embedding_only"
+    },
+    "viktor / vanilla-neutral-victor_vector_scene_victor_vector_default_f_17deca334c28d000": {
+      "file": "viktor/embeddings/vanilla-neutral-victor_vector_scene_victor_vector_default_f_17deca334c28d000.safetensors",
+      "dimensions": 2048,
+      "sha256": "f0f96101cc510971877dbe61993c3ea72486da9d3bf1a0c2cd49c8062604c28f",
+      "source_sha256": "53fdbf7aa352670cb2106d9e12d0cae87eb8046f13565919a9373b82b93e8434",
+      "mode": "embedding_only"
+    },
+    "viktor / vanilla-neutral-victor_vector_scene_victor_vector_default_f_1be4026989386000": {
+      "file": "viktor/embeddings/vanilla-neutral-victor_vector_scene_victor_vector_default_f_1be4026989386000.safetensors",
+      "dimensions": 2048,
+      "sha256": "7fae2502b249519f02e203c59539e2c2cc36781ae3238bbe5986bd072a432853",
+      "source_sha256": "45138755c9157e0fd7fe00864c577dcb6a3bccc0187f14b758566a3935b4a168",
+      "mode": "embedding_only"
+    },
+    "viktor / vanilla-original-victor_vector_q101_f_17ca7e57f528d000": {
+      "file": "viktor/embeddings/vanilla-original-victor_vector_q101_f_17ca7e57f528d000.safetensors",
+      "dimensions": 2048,
+      "sha256": "64f257d0ec33e98d38adc3e3ef14bccdadbc9b3edf7760420490ce51815345f6",
+      "source_sha256": "b454d39538373d7701619509f5f28bcae46932e40bd04eea0385cb090be2d1fe",
+      "mode": "embedding_only"
+    },
+    "viktor / vanilla-original-victor_vector_q115_f_186e963bc14e1034": {
+      "file": "viktor/embeddings/vanilla-original-victor_vector_q115_f_186e963bc14e1034.safetensors",
+      "dimensions": 2048,
+      "sha256": "c7c03252dbb97c6e1e7fd2cce03958ad74a26c2fe9daa65abceabf72d721e93d",
+      "source_sha256": "1735b3bce5b5a57bc0a5945ef9dc840ed3708cc24f0ecccbeba2593e11c01e1c",
+      "mode": "embedding_only"
+    },
+    "viktor / vanilla-original-victor_vector_q307_f_2f051c0e473bc014": {
+      "file": "viktor/embeddings/vanilla-original-victor_vector_q307_f_2f051c0e473bc014.safetensors",
+      "dimensions": 2048,
+      "sha256": "3d805e733752f9b346f38164657656c06ea83a418d1f4c403c06542f81f84ddf",
+      "source_sha256": "dc13cea701aec9b2dc011ca201e433d21b689e180c8e38d8538b10010947f0d2",
+      "mode": "embedding_only"
+    }
+  }
+}

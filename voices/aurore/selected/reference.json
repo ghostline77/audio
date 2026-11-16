@@ -1,0 +1,26 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "5240372813a0c91e17aa89e102e12e2f289948933cf44cf53a8082dc9f6949a1",
+  "speaker": "aurore",
+  "variant": "selected",
+  "mode": "full_reference",
+  "reference_text": "I myself have a small firm in Paris. My stand-in take calls, arranges meetings and deflects, deflects, deflects.",
+  "instruction": "Match the reference speaker's French-accented English. Keep the voice natural and conversational, with precise consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 99,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "c61e284764cbafefea1b869dc0bd3d212d48abc82cb55dec2cd5c0e020abb02b",
+    "reference.wav": "345148ecd256dc9ab9f2b2bf0eef2efad5306fd67fb4e5a6cb7cefdc00e76190"
+  },
+  "source_sha256": {
+    "embedding": "d3033ec69af6497b07581816c4c7abbec5f8a6da389c48fbd1b561d64707b5d4",
+    "codes": "c51f82f8940ef826b95bcbace823f9db6894d3c22cff70a6da2ce05c6b75bf36",
+    "audio": "345148ecd256dc9ab9f2b2bf0eef2efad5306fd67fb4e5a6cb7cefdc00e76190"
+  },
+  "selection": {
+    "method": "Full + Instruction",
+    "date": "2026-10-12"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "55be019e0673a9a67ca9d0a7133c672e7eaf4b56db887ea6a54ab850c9847fe6",
+  "speaker": "songbird",
+  "variant": "revision2-2",
+  "mode": "full_reference",
+  "reference_text": "They're bringin' access, I'm bringin' know-how about how to pull the matrix and data off the mainframe. We're to work side-by-side. Givin' us a chance.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 106,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "5730b897dcb00e8340f0a64eaf6bb23b0f7de784e0dc2577544e2d9c338aa9bd",
+    "reference.wav": "dcc374b088c1f220c992bd9d2486a70422e6c879d2f97130b6db7e2267e1f716"
+  },
+  "source_sha256": {
+    "embedding": "3b28b6cbc455661cd13554f7141707544f0bfb967943d96b13d6b122da47a76d",
+    "codes": "d1ac20fee367f2b4347690e815f274ed9509ab261141fea6209a3d29108b1f01",
+    "audio": "dcc374b088c1f220c992bd9d2486a70422e6c879d2f97130b6db7e2267e1f716"
+  },
+  "selection": {
+    "source_group": "revision2"
+  }
+}

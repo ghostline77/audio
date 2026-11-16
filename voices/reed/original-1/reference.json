@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "72b4134a08eac5ac3711027eb9336052eeb6344d66301b71eab0d72c44640786",
+  "speaker": "reed",
+  "variant": "original-1",
+  "mode": "full_reference",
+  "reference_text": "Hansen hired the French duo 'cause they worked for Militech years back. They know its security protocols inside out.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "e47d66d72c0361595b8a089a51aa0d003934ea9ff6f518e82ffeff0abde4254a",
+    "reference.wav": "31fa79497d9dda40c04f15ce756bf2c8d432d7ebcbbed2ca16daaddaa339dc4c"
+  },
+  "source_sha256": {
+    "embedding": "4c932324d7f718749b3cd95d696334cba6a959351447a532dc34162e8887fecc",
+    "codes": "96bee4decd554ba13b82132c5d85ac261f40523481d270e83c3700697c73c31f",
+    "audio": "31fa79497d9dda40c04f15ce756bf2c8d432d7ebcbbed2ca16daaddaa339dc4c"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

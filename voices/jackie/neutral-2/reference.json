@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "57238580826954917382c38a5d63bc4d468bca2732dd36ed29dfde0ac5521290",
+  "speaker": "jackie",
+  "variant": "neutral-2",
+  "mode": "full_reference",
+  "reference_text": "Hey, by the way... you, uh, got any plans for what you'll be doin' in Night City?",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 68,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "d2357c28b1d6aafc6a00b831fdf223f7596538874829c08da691e9e647e1fc90",
+    "reference.wav": "e82a815893fd68c79fe80dc70d84da57ee051035d1581914e25baedc8024df0f"
+  },
+  "source_sha256": {
+    "embedding": "a8cbaa0bb080364c49db479006ea9b4aa68e13ed7d50efa96293d1ead8334433",
+    "codes": "a1dfa0184ae20eadfce59e78d8ed3304b9523e2fd95e145232fd9fdf65996d6c",
+    "audio": "e82a815893fd68c79fe80dc70d84da57ee051035d1581914e25baedc8024df0f"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

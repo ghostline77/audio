@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "8bb061c89fd27fe2e4279c5307f95aef4e51752f00b72b2c1b7503fafc2cb413",
+  "speaker": "v-female",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "Point is, shoulda feared the passing… of all the things I knew.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "b176462c28f11e30a768f143d22fea3362c8260e61d6d99d9cc324a657f9fcfc",
+    "reference.wav": "83eb514eea745f6ecc563b0f4fcd3ac499fe1541ed2b74ab05bfa5aaafccbe5d"
+  },
+  "source_sha256": {
+    "embedding": "ed078d9cfe3ad14e6cb5ea59b1c82e0a2b39be4216a70ba079623a68046d1647",
+    "codes": "940db19ad6ab06408d3a7cbf15fe3038ab143e192d0625a770a6dbc8353c3a01",
+    "audio": "83eb514eea745f6ecc563b0f4fcd3ac499fe1541ed2b74ab05bfa5aaafccbe5d"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

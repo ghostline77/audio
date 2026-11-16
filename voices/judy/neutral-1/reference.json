@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "e87cce7ac3ffa37eec4af81ab0d14554764b1bf8bd0628227fea82f1a55890bd",
+  "speaker": "judy",
+  "variant": "neutral-1",
+  "mode": "full_reference",
+  "reference_text": "I'm taking things easy for now. But I'll get back to work soon. I've got an idea for an experimental virtu cycle.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "eb3b77c9ae8b20d202d32c31db4311efa40833a5d37dc94eec94cc0a8242b5e5",
+    "reference.wav": "0c0a384a280c2644a9b06e1a3702e6ec1425983fcb9af279ba9be59a47e70396"
+  },
+  "source_sha256": {
+    "embedding": "469e2de75f86f519d1982846c655c21eb3de39e69bd2ad676feaf893614e5387",
+    "codes": "66fb512c061db5099d1177199d278dc8f81f901ac29b74dc355dab3458704c57",
+    "audio": "0c0a384a280c2644a9b06e1a3702e6ec1425983fcb9af279ba9be59a47e70396"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

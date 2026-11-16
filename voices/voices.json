@@ -1,0 +1,161 @@
+{
+  "schema": "ghostline-voice-library-v1",
+  "voices": {
+    "Aurore": {
+      "full_reference": "aurore/selected/reference.json",
+      "instruction": "Match the reference speaker's French-accented English. Keep the voice natural and conversational, with precise consonants and restrained confidence.",
+      "selection": {
+        "method": "Full + Instruction",
+        "date": "2026-10-12"
+      }
+    },
+    "Aymeric": {
+      "full_reference": "aymeric/selected/reference.json",
+      "instruction": "Match the reference speaker's French-accented English. Keep the voice natural and conversational, with precise consonants and restrained confidence.",
+      "selection": {
+        "method": "Full + Instruction",
+        "date": "2026-10-12"
+      }
+    },
+    "Jackie": {
+      "full_reference": "jackie/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral",
+        "reference": 1,
+        "method": "full_reference",
+        "status": "selected",
+        "date": "2026-11-05"
+      }
+    },
+    "Johnny": {
+      "full_reference": "johnny/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral",
+        "reference": 1,
+        "method": "full_reference",
+        "status": "selected",
+        "date": "2026-11-05"
+      }
+    },
+    "Judy": {
+      "full_reference": "judy/reviewed-2026-11-05/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral-2026-11-05",
+        "reference": 2,
+        "method": "full_reference",
+        "status": "selected",
+        "date": "2026-11-05",
+        "comparison_key": "judy-2"
+      }
+    },
+    "Kerry": {
+      "full_reference": "kerry/neutral-2/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral",
+        "reference": 2,
+        "method": "full_reference",
+        "status": "selected",
+        "date": "2026-11-05"
+      }
+    },
+    "Panam": {
+      "full_reference": "panam/reviewed-2026-11-05/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral-2026-11-05",
+        "reference": 2,
+        "method": "full_reference",
+        "status": "selected",
+        "date": "2026-11-05",
+        "comparison_key": "panam-2"
+      }
+    },
+    "Placide": {
+      "full_reference": "placide/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral",
+        "reference": 1,
+        "method": "full_reference",
+        "status": "selected",
+        "date": "2026-11-05"
+      }
+    },
+    "Reed": {
+      "full_reference": "reed/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral",
+        "reference": 1,
+        "method": "full_reference",
+        "status": "selected",
+        "date": "2026-11-05"
+      }
+    },
+    "River": {
+      "full_reference": "river/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral",
+        "reference": 1,
+        "method": "full_reference",
+        "status": "selected",
+        "date": "2026-11-05"
+      }
+    },
+    "Songbird": {
+      "full_reference": "songbird/reviewed-2026-11-05/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral-2026-11-05",
+        "reference": 2,
+        "method": "full_reference",
+        "status": "selected",
+        "date": "2026-11-05",
+        "comparison_key": "songbird-2"
+      }
+    },
+    "Takemura": {
+      "full_reference": "takemura/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral",
+        "reference": 1,
+        "method": "full_reference",
+        "status": "selected",
+        "date": "2026-11-05"
+      }
+    },
+    "V Female": {
+      "full_reference": "v-female/selected/reference.json",
+      "instruction": "",
+      "selection": {
+        "method": "full_reference",
+        "date": "2026-10-12"
+      }
+    },
+    "V Male": {
+      "full_reference": "v-male/selected/reference.json",
+      "instruction": "",
+      "selection": {
+        "method": "full_reference",
+        "date": "2026-10-12"
+      }
+    },
+    "Viktor": {
+      "full_reference": "viktor/neutral-1/reference.json",
+      "instruction": "",
+      "selection": {
+        "source_group": "neutral",
+        "reference": 1,
+        "method": "full_reference",
+        "status": "selected",
+        "date": "2026-11-05"
+      }
+    }
+  }
+}

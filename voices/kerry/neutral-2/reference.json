@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "7522cdb07ea8d0befff1946b2ea11426baa1e7a8c27f8716f9e1f5cdb9035fe8",
+  "speaker": "kerry",
+  "variant": "neutral-2",
+  "mode": "full_reference",
+  "reference_text": "Mhm. Thinkin' 'bout calling it \"Kerry Eurodyne.\" It's symbolic, y'know? A rebirth.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 97,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "08a795977619c97312fcc053d0fd6b035bd599d6bb24b916ad9f1115d6cbaa47",
+    "reference.wav": "cad5e11f13172856a0b1b7be09d675d2f918f52f1e2c64c5827792b1f4e2ea4c"
+  },
+  "source_sha256": {
+    "embedding": "dccf7fe6075a1852d6a90960094b45ebb9e003edb864b2d32e0a74b5fe0652fe",
+    "codes": "29727ecdda48db816f1a7ed7a76715b16ef566f2b6a8bc6a2584c61f2daef502",
+    "audio": "cad5e11f13172856a0b1b7be09d675d2f918f52f1e2c64c5827792b1f4e2ea4c"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

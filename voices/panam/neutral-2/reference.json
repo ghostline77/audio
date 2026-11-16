@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "cc206ad22cd3d156b70c7956d93c704dbe1c43bffe54032c1be0aa38f13d4cca",
+  "speaker": "panam",
+  "variant": "neutral-2",
+  "mode": "full_reference",
+  "reference_text": "I've come up with a plan, a first draft, but I need to sleep on it, work it out. Then we can talk about the details.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 92,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "2497ad638c051e8bf260bc86087b560e9e7d10f044e82d4aef0c655de5aa66bf",
+    "reference.wav": "b011176329bc6a6c14101b2ff684fcb0625adb69f9d850f76ba07e0c97c2f74c"
+  },
+  "source_sha256": {
+    "embedding": "541afbe80ac308d901f03aadcb616841411a6cbf97cbae526a8c33daa3e1692e",
+    "codes": "20d7ac64d5ab19b72140ed61f1ae9cbe96af74242731196b8917ec2d95f65b12",
+    "audio": "b011176329bc6a6c14101b2ff684fcb0625adb69f9d850f76ba07e0c97c2f74c"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "ed02f7bee48daa682b78aa8161e911ce9b9c36c223887322cd459d03bc1b55d2",
+  "speaker": "songbird",
+  "variant": "reviewed-2026-11-05",
+  "mode": "full_reference",
+  "reference_text": "You know, he created this lab especially for the occasion. Tens of millions of eddies invested for your visit alone. That's Kurt for you.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 125,
+  "code_groups": 16,
+  "sha256": {
+    "reference.wav": "dbccdae1f06c2a344d62c830864ad73438cee1b1b13142a556bedc4f11871df3",
+    "reference.safetensors": "a75d1985dc75b444fe438ba89943b508ec8274baac269bc20320c34f19b46f3f"
+  },
+  "selection": {
+    "source_group": "neutral-2026-11-05",
+    "reference": 2,
+    "method": "full_reference",
+    "status": "selected",
+    "date": "2026-11-05",
+    "comparison_key": "songbird-2"
+  },
+  "provenance": "provenance.json"
+}

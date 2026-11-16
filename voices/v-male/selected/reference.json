@@ -1,0 +1,26 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "1d78ff6d1571e2985135dc7d59bd204e7d0c0c799a6a6b720dc7d92c791c66c6",
+  "speaker": "v-male",
+  "variant": "selected",
+  "mode": "full_reference",
+  "reference_text": "Just worked out that way. Came to Night City, got my first job, then another... And so on, and so forth.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 99,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "5f59a3a53b12e7fcc10cca8fcaafad9e8721736b149c1ba872cf7678520527ab",
+    "reference.wav": "4d801afa5024cd6445847468705b0773c0ab1431bad39e5d5a810aef7a65de30"
+  },
+  "source_sha256": {
+    "embedding": "0b5feee4072b8f3fe2119e930e7def8cb682c5ac09a2d97a8abb6dcbc4baed2a",
+    "codes": "54a426a26e91d1e55675d9e5f551e684bef67574110a08c822c8cf501992c2e5",
+    "audio": "4d801afa5024cd6445847468705b0773c0ab1431bad39e5d5a810aef7a65de30"
+  },
+  "selection": {
+    "method": "full_reference",
+    "date": "2026-10-12"
+  }
+}

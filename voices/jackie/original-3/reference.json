@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "fee70c06ca45502e876bc4094af73821e524f280d8413865ae43b7740d1ced82",
+  "speaker": "jackie",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "Hurt or not… Rather not miss anythin'… useful…",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 89,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "8b94400ea9e79a216f8049ae5cb2e116b4af0139bf1b5872e2679dd952a61517",
+    "reference.wav": "fb732992285090d71856458e614796784e12e7900b7339ef44a21651643082b4"
+  },
+  "source_sha256": {
+    "embedding": "ae6140f62dce700a201a0a2296a598b331b58980b9e2b5b602c68907ece7e6ab",
+    "codes": "c03d24029db469c5fa44ec50864b9ec41ccf582a9a56b5f7267f233855d8f487",
+    "audio": "fb732992285090d71856458e614796784e12e7900b7339ef44a21651643082b4"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

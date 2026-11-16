@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "6d926d330cf95ad99aae760b571dd01606f68042ef2b371f633e3a96d7e52de3",
+  "speaker": "kerry",
+  "variant": "revision2-1",
+  "mode": "full_reference",
+  "reference_text": "And see this rusty color on the strings? S'posed to be the blood of legendary bluesman Dennis Ford himself.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 82,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "a995b39bf93f06d2e62a4cee6b772bb31a036ec5edb109293fa1146f32e30a47",
+    "reference.wav": "a0e6e5cd6026a4800dd831c5630a55a1dbc52401bdc3014c4e56ec3bfc6a447e"
+  },
+  "source_sha256": {
+    "embedding": "24e9d1d94b2bc8456dd0a279e6e2956c4b86a99ebec4f29ffca8a61794469155",
+    "codes": "318db415d5b55ea7c1d37c5cd54b6c7c67b36ae8c8094d51d710153a6db4c11c",
+    "audio": "a0e6e5cd6026a4800dd831c5630a55a1dbc52401bdc3014c4e56ec3bfc6a447e"
+  },
+  "selection": {
+    "source_group": "revision2"
+  }
+}

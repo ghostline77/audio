@@ -1,0 +1,26 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "b7b5c7039e3783bd3459abd99f5732da064cb18cd6a435798cbb8ad52b91514e",
+  "speaker": "judy",
+  "variant": "reviewed-2026-11-05",
+  "mode": "full_reference",
+  "reference_text": "Model of your perceptions and emotional responses. Need to adjust that so the raw BD won't overwhelm you.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 84,
+  "code_groups": 16,
+  "sha256": {
+    "reference.wav": "de1969f089b3c0743c8fa0b557805cdb963c4658785a68d9f22488f9c734a635",
+    "reference.safetensors": "4a402a846a073e8ca523445f483364983b9f1154b43f0d47f4dc5182e3da6adb"
+  },
+  "selection": {
+    "source_group": "neutral-2026-11-05",
+    "reference": 2,
+    "method": "full_reference",
+    "status": "selected",
+    "date": "2026-11-05",
+    "comparison_key": "judy-2"
+  },
+  "provenance": "provenance.json"
+}

@@ -1,0 +1,87 @@
+{
+  "key": "judy-2",
+  "actor": "Judy",
+  "number": 2,
+  "label": "Judy candidate 2",
+  "reference_audio": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\candidates\\judy-2.wav",
+  "reference_text": "Model of your perceptions and emotional responses. Need to adjust that so the raw BD won't overwhelm you.",
+  "seed": 5271745243240697988,
+  "instruction": "",
+  "previous_reference": "K:\\ghostline77\\audio\\voices\\judy\\neutral-2\\reference.json",
+  "sources": [
+    {
+      "actor": "Judy",
+      "id": "1212556388374016000",
+      "text": "Model of your perceptions and emotional responses. Need to adjust that so the raw BD won't overwhelm you.",
+      "depot": "base/localization/en-us/vo/judy_q004_f_10d3dd9c5f29f000.wem",
+      "scenes": {
+        "base/quest/main_quests/prologue/q004/scenes/q004_03_this_is_judy.scene": {
+          "nodes": {
+            "121:1": {
+              "context": "Vo_Context_Quest",
+              "expression": "Vo_Expression_Spoken",
+              "children": [
+                "121"
+              ]
+            }
+          },
+          "actors": [
+            "Judy"
+          ],
+          "addressees": [
+            "V"
+          ],
+          "quests": [
+            "base\\quest\\main_quests\\prologue\\q004\\phases\\q004_nightclub.questphase"
+          ]
+        }
+      },
+      "scene_evidence": {
+        "path": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\scene-json\\q004_03_this_is_judy.scene.json",
+        "speaker": "Judy(1)",
+        "event_node": "121",
+        "path_from_start": [
+          "1444",
+          "902",
+          "433",
+          "434",
+          "17",
+          "117",
+          "1346",
+          "121"
+        ],
+        "reachable": true
+      },
+      "original": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\originals\\judy_q004_f_10d3dd9c5f29f000.wav",
+      "reference": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\prepared\\judy_q004_f_10d3dd9c5f29f000.wav",
+      "sha256": {
+        "wem": "0fb80d4e07c51de2582988c80f07f50eeb33fa8b4e97342a5275cbe78a9f2638",
+        "ogg": "e82cbb56c0c7a1aeb20ede59d5d5afeb7d5b3c0d6c4bbce9d0197497943df362",
+        "original": "4c693cb2a0e17e330578138efef81ee14dca861930bfa75102aa0eea3cb60bc4",
+        "reference": "bd3f82ac64882b2897f1e70bdd6a56a602be9597e19bace0998919cb36c2328c",
+        "scene": "f093e5f18284ad598ba0e285ec459b17dbf4229e92136f74a0b6dad94c6000b8"
+      },
+      "signal": {
+        "rate": 48000,
+        "channels": 1,
+        "seconds": 6.644,
+        "peak": 0.63018798828125,
+        "clipped_samples": 0,
+        "quiet_10th_percentile_dbfs": -88.14206285670926,
+        "speech_to_quiet_db": 64.0468249602943
+      },
+      "reviewed_original": "source/judy_q004_f_10d3dd9c5f29f000.wav"
+    }
+  ],
+  "mission": "The Information",
+  "context": "Face-to-face braindance setup with V and Evelyn at Lizzie's, before entering the tutorial. Judy is uninjured; these are explanatory lines, not braindance-layer or phone audio.",
+  "source_url": "https://www.gamepressure.com/cyberpunk-2077/the-information/z0df1e",
+  "new_sample": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\samples\\judy-2-new.wav",
+  "new_sha256": "543420ed0510e2eea65cc372b51846b4bb16f71107ba17c997f2408bda3769a0",
+  "new_seconds": 3.44,
+  "previous_reference_audio": "K:\\ghostline77\\audio\\voices\\judy\\neutral-2\\reference.wav",
+  "previous_reference_text": "Oh, before I forget. Some lady called me – Elizabeth something. Said she had a job for someone with an eye for virtus.",
+  "previous_sample": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\samples\\judy-2-previous.wav",
+  "previous_sha256": "587cc7f6fb615608735bafb221118867663265d6cfef8058b0f30df45c989021",
+  "previous_seconds": 3.6
+}

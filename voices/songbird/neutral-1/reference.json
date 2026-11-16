@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "1b72f0ecb97e05d5443fb6fc7dc403284d115c6fc8f1cc9744c496259b1de005",
+  "speaker": "songbird",
+  "variant": "neutral-1",
+  "mode": "full_reference",
+  "reference_text": "Ah, \"negotiating by the book\" – that's what everybody at the firm called it.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 80,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "77f45124e0223521356b0679fec340cace7ba003e70c0ec4c7c124f258cade17",
+    "reference.wav": "d4a096b166f19b8cfb93a701018d5fb764c17ff5274dca0997462fd37e0f8bcb"
+  },
+  "source_sha256": {
+    "embedding": "b6b8631333ae998c29993f5ee525112092c37894e33acf9fdf3fcf7034e75178",
+    "codes": "ad7778e750c0b73f8c610f6297211b18d2914eae5a301e3179d440581584ceff",
+    "audio": "d4a096b166f19b8cfb93a701018d5fb764c17ff5274dca0997462fd37e0f8bcb"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

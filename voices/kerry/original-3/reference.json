@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "853994fad96fd18f9fdadc70523f616742967daf842e3d9d256fbcdd29161eee",
+  "speaker": "kerry",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "When Samurai started out, we spent every enny we had on guitars, strings, y'know...",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "d7aa716fb7a752e14638d66687db8bb1d61ac7ec2042f44de3211c0ce2412f25",
+    "reference.wav": "342019d4f584ffe55709e2f9fa6eb5552eeba054eae8ac8b2bfec339da8d4607"
+  },
+  "source_sha256": {
+    "embedding": "b19e76e5ce61ad2ed3ed772382a23f1b560ef0dfdf1bd0dd5570b9185731852b",
+    "codes": "82ec8019ab32a1e4aadeed70a04dd93226ca6b7c07343d54c2c4664a25abf449",
+    "audio": "342019d4f584ffe55709e2f9fa6eb5552eeba054eae8ac8b2bfec339da8d4607"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "65e3fb582b476267a0ecd49261edfedb4dcfd8241647780bfe4dfa8bc187f18e",
+  "speaker": "v-male",
+  "variant": "original-2",
+  "mode": "full_reference",
+  "reference_text": "Heh, blue roses. Wha-you sure? 'Cause the roses in this picture look pretty red to me.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "db0040671f737938e4d9698e2c304daa503de15918e1365e24e566c2aa5c0d2d",
+    "reference.wav": "924b6bd3f5e786798b07ed191ed018b05460b739983e32823045985b85a982ec"
+  },
+  "source_sha256": {
+    "embedding": "2ee854b80ff3379c173a9191dc24d53028e683ed06172e35bcc62cfcd10807d8",
+    "codes": "c410ea1a1b46a76c0a17674aa0845da0f108ef9b50d9b929d90cdc17f2c7991a",
+    "audio": "924b6bd3f5e786798b07ed191ed018b05460b739983e32823045985b85a982ec"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

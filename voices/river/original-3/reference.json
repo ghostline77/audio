@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "8286461ec88fade238803debad24a2e8eab39474fd02626a3bcb459e54b092b1",
+  "speaker": "river",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "This is my fault. If  I'd just paid more attention… Just talked with him more…",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 89,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "cb3db1136a97ac2839ae85504967600188dfea3d5f7154c8eca496926d0be04e",
+    "reference.wav": "b53a22376345de81a758cd7404ddb0534ab994b70381fb7d916409216c726a58"
+  },
+  "source_sha256": {
+    "embedding": "a32da4db1ec1e123a5ed0aa9e1b1fea0a93d65185f0d01589668415819394d7f",
+    "codes": "863c9829e29736af4a6b74a00dc071edcae645394f1f2b224d41363fd5cbd92d",
+    "audio": "b53a22376345de81a758cd7404ddb0534ab994b70381fb7d916409216c726a58"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

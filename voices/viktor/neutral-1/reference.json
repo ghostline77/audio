@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "88a15d00ee5d95261c217c7e99e5f1dadf63c1b53694fc252023109581c4264b",
+  "speaker": "viktor",
+  "variant": "neutral-1",
+  "mode": "full_reference",
+  "reference_text": "You get to a certain age, you drop all your illusions. Life just gets easier from there.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 72,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "240641f18d978063efc0d042ce638c563aebe8268d48edb2ca5bf5c8a3fd1fe1",
+    "reference.wav": "c54f4ac0e4ffe27ad886705391a7f94fccd6e3c971296bde79502e29f9b4a759"
+  },
+  "source_sha256": {
+    "embedding": "45138755c9157e0fd7fe00864c577dcb6a3bccc0187f14b758566a3935b4a168",
+    "codes": "4d4a6e121d43a47ed8ffc65cb2a1c6c6395748cb12709fb35457bbb638298fff",
+    "audio": "c54f4ac0e4ffe27ad886705391a7f94fccd6e3c971296bde79502e29f9b4a759"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

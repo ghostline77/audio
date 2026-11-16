@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "fbd73bf9b45d1816d7a88a2cbdb6b3c96cdec9ec555f01650947bfedb137910a",
+  "speaker": "kerry",
+  "variant": "original-2",
+  "mode": "full_reference",
+  "reference_text": "Heheh, in the end, yeah. Think the media got the rest of the story.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "7a6697675f05c634619edca514d7e1d3ea48da8ab15845f1f56ed2363ad804a7",
+    "reference.wav": "58a76922a7904599244dfed79cb8fdc61c4c30bc42138950ea21c52033c6901e"
+  },
+  "source_sha256": {
+    "embedding": "b546796495d080f4ef0da1f6c59d4c3ff7b02ceeca1dbf19efb8511e2905c9e3",
+    "codes": "87d07d71cac42c6d275f13117b85cf5c9985d6cfa479b93efd284e6c9bde6092",
+    "audio": "58a76922a7904599244dfed79cb8fdc61c4c30bc42138950ea21c52033c6901e"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

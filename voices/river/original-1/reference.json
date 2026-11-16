@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "95152c832624aea4a3d7c137d96a2a5d08580d60d44bcaecb26ce07d20e64c0d",
+  "speaker": "river",
+  "variant": "original-1",
+  "mode": "full_reference",
+  "reference_text": "And I don't know who to blame – you, your... your situation, or that damn job.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 89,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "e7d9faa98f220f09fc7db2f9a0c723528fd3a7df2f60c27d7e24f898b1c9745a",
+    "reference.wav": "a45e73d1c091f07bde33d8fea5dceb3adf2595e2fa3887ba029b53d7e510203c"
+  },
+  "source_sha256": {
+    "embedding": "9c100b90405ed7949dc3124dd1f945b7db7f0ef2daada2de34d15a39b948d10d",
+    "codes": "d2aa7250e46c74faf56971afd949ab18724c196ebd1c210f81c9bd703ce3ff80",
+    "audio": "a45e73d1c091f07bde33d8fea5dceb3adf2595e2fa3887ba029b53d7e510203c"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

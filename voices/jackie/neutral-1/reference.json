@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "3e18c481b9d37b2c3b9e09b214b67312604999e75595092ea79f402d61165fae",
+  "speaker": "jackie",
+  "variant": "neutral-1",
+  "mode": "full_reference",
+  "reference_text": "Some top-notch work, Miguel did. Rides like it looks – factory new.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 73,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "44f47fd16e848943bdbe04a09f710c55e121c8c15edeb4646fe2562d8aaeeee3",
+    "reference.wav": "616ba894e0924c98a43afaa84590efd2231fb73593a997a3c079538dc81c3143"
+  },
+  "source_sha256": {
+    "embedding": "60cb7580815ef151e657740e6cf54a985b775af0be8cead266bd17af39047d76",
+    "codes": "73da104c86fa4159b1df4c5f1f857a26f577678e1ace56b7494c4517d93d9557",
+    "audio": "616ba894e0924c98a43afaa84590efd2231fb73593a997a3c079538dc81c3143"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

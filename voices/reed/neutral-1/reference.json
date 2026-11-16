@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "86dad29c9f5c5395ebecbf89b541276173bbf0712a1432fcb2f692ba91707c01",
+  "speaker": "reed",
+  "variant": "neutral-1",
+  "mode": "full_reference",
+  "reference_text": "A pro football dream team, funded by big Pacifica investors. Won every game they played.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 82,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "8f241399e915b8ca5ce81ea505f6b0227e0cdb9329c4778676c3630d41ca4435",
+    "reference.wav": "f9f7936a72242983721194d6a1cab6ee9ea00f1af1d607a14a7dbdb9a41b466f"
+  },
+  "source_sha256": {
+    "embedding": "c29620c271c38ed0318a9d4fea1fe4d02ee2274b6368a2614b2333c7d4bfeabe",
+    "codes": "6d369aeb4aaa5a5ea97b8454d195671a597bc39052362c952e340355fa6fe0da",
+    "audio": "f9f7936a72242983721194d6a1cab6ee9ea00f1af1d607a14a7dbdb9a41b466f"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

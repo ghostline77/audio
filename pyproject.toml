@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "ghostline-audio"
+version = "0.1.0"
+description = "Public PyTorch voice generation and native Cyberpunk lipsync authoring"
+requires-python = ">=3.12"
+dependencies = [
+  "torch>=2.6", "numpy>=2,<3", "scipy>=1.14", "soundfile>=0.12",
+  "safetensors>=0.4", "faster-qwen3-tts==0.5.4", "transformers==5.15.1", "g2p-en>=2.1",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8", "ruff>=0.11"]
+
+[project.scripts]
+ghostline-audio = "ghostline_audio.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+ghostline_audio = ["ui/*.html", "ui/*.css", "ui/*.js"]
+
+[tool.ruff]
+target-version = "py312"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+
+[tool.ruff.lint]
+select = ["E4", "E7", "E9", "F"]

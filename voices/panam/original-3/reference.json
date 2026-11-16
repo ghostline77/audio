@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "2e81e0964cd7180a3e3fc8190ce413aaa98da6373cce7bcfecc30f6e4e96c460",
+  "speaker": "panam",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "Mhm, perfect! Keep broadcasting over an open channel, just in case they missed you the first time! God, I swear!",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "8d3247a272404d51ed6f57dbc6168e4376d628eb9deb08aadf9df1f5526142d6",
+    "reference.wav": "2fc62b228f88f31ee00189acd331fbd5a6c2daca3f074c6f905860d1e4579ddb"
+  },
+  "source_sha256": {
+    "embedding": "3e61c778c4bbc4f7431c1bf840c7d68c7bbb5e64a334cacc2c8fc4b0b1793314",
+    "codes": "90a37c5796ec1f8aaa6ed92f879219ced21f7a203d8bfa7ef3dd3535a43ab93f",
+    "audio": "2fc62b228f88f31ee00189acd331fbd5a6c2daca3f074c6f905860d1e4579ddb"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

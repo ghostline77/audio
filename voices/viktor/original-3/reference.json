@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "1bb9f6496de47f34876943cc9436f914e01d765a2e374bee84e93a6b6d96b7e0",
+  "speaker": "viktor",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "The biochip revived and... short-circuited you. Started uploading data INTO your head.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 89,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "fbf54cc23969095471a12a9c3c0f8f12995dc6eb5a2c4912a27f106c09094cf6",
+    "reference.wav": "f4e4a623d46d870f44a0ded2bea0c8df5cf6e2afde9ae706bc8d0fab44811c73"
+  },
+  "source_sha256": {
+    "embedding": "b454d39538373d7701619509f5f28bcae46932e40bd04eea0385cb090be2d1fe",
+    "codes": "0f9f984d6e5a844c8a8fdfa08595fd636c66f1bad3a9bafcf7e585633b815997",
+    "audio": "f4e4a623d46d870f44a0ded2bea0c8df5cf6e2afde9ae706bc8d0fab44811c73"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

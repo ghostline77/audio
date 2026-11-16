@@ -1,0 +1,26 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "844f382075fb15c4a43a9984b82587ed340203cbca5168d1dd90a67e4a102e02",
+  "speaker": "panam",
+  "variant": "reviewed-2026-11-05",
+  "mode": "full_reference",
+  "reference_text": "When you're on the road day into night into day, your butt basically fusing with your seat, you forget what it's like.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 92,
+  "code_groups": 16,
+  "sha256": {
+    "reference.wav": "554bbf558d067b2650a3afc0ebb3f8f355d0c2e55006c8f6935c7e54ff6ffae1",
+    "reference.safetensors": "e02869f105531f828d84b59681535cef88e6e00aa84669f1111562de08b4f891"
+  },
+  "selection": {
+    "source_group": "neutral-2026-11-05",
+    "reference": 2,
+    "method": "full_reference",
+    "status": "selected",
+    "date": "2026-11-05",
+    "comparison_key": "panam-2"
+  },
+  "provenance": "provenance.json"
+}

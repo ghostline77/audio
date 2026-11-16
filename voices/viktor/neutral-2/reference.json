@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "24f73deee4e3c3cd688d43f7f5a0e4588b863ab09631c1cf5dc7e692a5807293",
+  "speaker": "viktor",
+  "variant": "neutral-2",
+  "mode": "full_reference",
+  "reference_text": "He has access to your senses, perceptions, even some memories. Likewise, you've got a glimpse into his.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 94,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "2f6e7b6b7d90a73598862ef92c0be5031cea6f0e15727096b6892a61cb8bd454",
+    "reference.wav": "7ef548840e81262c94d7024c4c4e9dd19bed8a5b675510f28030d25b7b10e155"
+  },
+  "source_sha256": {
+    "embedding": "53fdbf7aa352670cb2106d9e12d0cae87eb8046f13565919a9373b82b93e8434",
+    "codes": "2ae4b2a8c7d8c93da7bc4558561025ade2b4922f91b2ad10240e7f8e1a84f316",
+    "audio": "7ef548840e81262c94d7024c4c4e9dd19bed8a5b675510f28030d25b7b10e155"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

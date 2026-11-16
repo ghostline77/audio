@@ -1,0 +1,15 @@
+{
+  "voice_library": "../voices/voices.json",
+  "seed": 42,
+  "candidates": 3,
+  "lines": [
+    {
+      "speaker": "V Female",
+      "gender": "female",
+      "language": "English",
+      "text": "Keep your voice down. Someone's listening.",
+      "key": "line-001"
+    }
+  ],
+  "namespace": "example.q001"
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "17dba3c295de19f8c87c156b905cd7e12dddf8fde7c3aa52860a3afa337c74a6",
+  "speaker": "judy",
+  "variant": "original-2",
+  "mode": "full_reference",
+  "reference_text": "I like you. Wanna see you lots. Way I see it, there isn't anything else to consider.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "60439b3921e8a9676c50f3b490d2e818aa06ed7756dcb67ef3f268ae1287ba5a",
+    "reference.wav": "6d7c19a950c74b7a4834924003daed7ef54234f5d1c6daf57b4d9f1f3eca8e05"
+  },
+  "source_sha256": {
+    "embedding": "7f6ea2fb3108505a6e8b977a38ab003482c3406b842d43f2e2155c6f9fad8e05",
+    "codes": "152138b19dc8e3dc849b1852fcf6b90a45442aacfa5dfaeb10a84232b9bc6b64",
+    "audio": "6d7c19a950c74b7a4834924003daed7ef54234f5d1c6daf57b4d9f1f3eca8e05"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

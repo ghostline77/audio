@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "2f0255672e237b7bd78c8af322abb3854435ad6deb5487403db8db8b7afd347e",
+  "speaker": "river",
+  "variant": "neutral-1",
+  "mode": "full_reference",
+  "reference_text": "I'll let you know when I know. For now I'm just helping out Joss, enjoying some time off...",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 76,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "0dc42d56c36ae607484479658481d3579c87b503513d91f49a006af3879cac1a",
+    "reference.wav": "13e7ff4b0aa79e6f14accc5b6c8df2be56295a467e3f8c8ba9cdf0cf6735e02a"
+  },
+  "source_sha256": {
+    "embedding": "82344377cc10f83675c1227b2ed26eeec4eafb4851c1bd02807268cb59fa0b7c",
+    "codes": "bdc57411770a36946358ea37c6891f4ebb4ef239ec39ee6c83d50bc9d3dc603e",
+    "audio": "13e7ff4b0aa79e6f14accc5b6c8df2be56295a467e3f8c8ba9cdf0cf6735e02a"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

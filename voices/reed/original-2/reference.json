@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "0f22d6360455c926e6ff02d9f55b6e147386ff8e09b27c5cd9a83aa571e0e0f9",
+  "speaker": "reed",
+  "variant": "original-2",
+  "mode": "full_reference",
+  "reference_text": "I should've looked her in the eye, heard her say she wanted out of life… I could've changed her mind.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "c04bc176c6a1a2da058c761eccfc31c75b4d7cae84517a3b2c815bf63c661f95",
+    "reference.wav": "8b6e9a0145bd004fb50774460e2dd40986643f619cf50bf096311e2016c69e7d"
+  },
+  "source_sha256": {
+    "embedding": "1bcef1e9d35144b6355577380c3a9369304855a7d2d42630b0bf5779f0443219",
+    "codes": "273ab91904991730f2017bce5a2520dcc2f9906c144a8bd654e8705a9fbc1f96",
+    "audio": "8b6e9a0145bd004fb50774460e2dd40986643f619cf50bf096311e2016c69e7d"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

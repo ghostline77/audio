@@ -1,0 +1,153 @@
+{
+  "key": "songbird-2",
+  "actor": "Songbird",
+  "number": 2,
+  "label": "Songbird candidate 2",
+  "reference_audio": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\candidates\\songbird-2.wav",
+  "reference_text": "You know, he created this lab especially for the occasion. Tens of millions of eddies invested for your visit alone. That's Kurt for you.",
+  "seed": 15412941105659909940,
+  "instruction": "",
+  "previous_reference": "K:\\ghostline77\\audio\\voices\\songbird\\neutral-2\\reference.json",
+  "sources": [
+    {
+      "actor": "Songbird",
+      "id": "2983635373759942656",
+      "text": "You know, he created this lab especially for the occasion.",
+      "depot": "ep1/localization/en-us/vo/songbird_q304_f_2968009080405000.wem",
+      "scenes": {
+        "ep1/quest/main_quests/q304/scenes/q304_07b_lab.scene": {
+          "nodes": {
+            "259": {
+              "context": "Vo_Context_Quest",
+              "expression": "Vo_Expression_Spoken",
+              "children": []
+            }
+          },
+          "actors": [
+            "Songbird"
+          ],
+          "addressees": [
+            "V"
+          ],
+          "quests": [
+            "ep1\\quest\\main_quests\\q304\\phases\\q304_07_deal.questphase"
+          ]
+        }
+      },
+      "scene_evidence": {
+        "path": "H:\\projects\\Ghostline\\generated-voices\\vanilla-library\\npc-screened\\scene-json\\q304_07b_lab.scene.json",
+        "speaker": "Songbird(0)",
+        "event_node": "259",
+        "path_from_start": [
+          "1",
+          "2194",
+          "1098",
+          "4327",
+          "264",
+          "1519",
+          "7",
+          "9",
+          "2751",
+          "259"
+        ],
+        "reachable": true
+      },
+      "original": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\originals\\songbird_q304_f_2968009080405000.wav",
+      "reference": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\prepared\\songbird_q304_f_2968009080405000.wav",
+      "sha256": {
+        "wem": "bb123737755f74c0c8139d754cf9ed9554b1153cda271f2acbe357dc18f2b3a1",
+        "ogg": "ef333cf3f4fb0206c4fcd57229745029181547ec3ae39b6b579897132f6f7334",
+        "original": "88b23c866fa2658b70726aa9d1a6e4586caee62562c0c07b895258c3b7d83f91",
+        "reference": "052976dc18a6953cb16aac23c99bb998535c0b0a98837b71295fb8c093065c5f",
+        "scene": "9da20878794d8f51c6b11b5e14d0207517e4c72f178f2fcc4b5663865d9b1975"
+      },
+      "signal": {
+        "rate": 48000,
+        "channels": 1,
+        "seconds": 4.4093333333333335,
+        "peak": 0.543426513671875,
+        "clipped_samples": 0,
+        "quiet_10th_percentile_dbfs": -180.0,
+        "speech_to_quiet_db": 159.0003469746509
+      },
+      "reviewed_original": "source/songbird_q304_f_2968009080405000.wav"
+    },
+    {
+      "actor": "Songbird",
+      "id": "2983636822774534144",
+      "text": "Tens of millions of eddies invested for your visit alone. That's Kurt for you.",
+      "depot": "ep1/localization/en-us/vo/songbird_q304_f_296801e1e0405000.wem",
+      "scenes": {
+        "ep1/quest/main_quests/q304/scenes/q304_07b_lab.scene": {
+          "nodes": {
+            "259:1": {
+              "context": "Vo_Context_Quest",
+              "expression": "Vo_Expression_Spoken",
+              "children": [
+                "259",
+                "2657"
+              ]
+            }
+          },
+          "actors": [
+            "Songbird"
+          ],
+          "addressees": [
+            "V"
+          ],
+          "quests": [
+            "ep1\\quest\\main_quests\\q304\\phases\\q304_07_deal.questphase"
+          ]
+        }
+      },
+      "scene_evidence": {
+        "path": "H:\\projects\\Ghostline\\generated-voices\\vanilla-library\\npc-screened\\scene-json\\q304_07b_lab.scene.json",
+        "speaker": "Songbird(0)",
+        "event_node": "259",
+        "path_from_start": [
+          "1",
+          "2194",
+          "1098",
+          "4327",
+          "264",
+          "1519",
+          "7",
+          "9",
+          "2751",
+          "259"
+        ],
+        "reachable": true
+      },
+      "original": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\originals\\songbird_q304_f_296801e1e0405000.wav",
+      "reference": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\prepared\\songbird_q304_f_296801e1e0405000.wav",
+      "sha256": {
+        "wem": "d55236e400ebf60025397f9b75ca0341bad99d07e76b2dc168b621f0f9256d36",
+        "ogg": "c3bfe48471a496ba0dc73019cf141a0246e699d12bb42fca3cd3f022c4f74a1d",
+        "original": "04a9c07481cc23d2327687dbbf984b3883633c40de47d1ae83b7550835d1c16d",
+        "reference": "4bb70bd065de26e7ded4be94f073fb82db057c16071c5bd68473b6b6793c916d",
+        "scene": "9da20878794d8f51c6b11b5e14d0207517e4c72f178f2fcc4b5663865d9b1975"
+      },
+      "signal": {
+        "rate": 48000,
+        "channels": 1,
+        "seconds": 5.332,
+        "peak": 0.693572998046875,
+        "clipped_samples": 0,
+        "quiet_10th_percentile_dbfs": -180.0,
+        "speech_to_quiet_db": 161.06208211025873
+      },
+      "reviewed_original": "source/songbird_q304_f_296801e1e0405000.wav"
+    }
+  ],
+  "mission": "Firestarter",
+  "context": "Routine lab presentation before V connects and before the Blackwall crisis. The diagnostic/ready pair is her report to Hansen and the disguised twins; the investment pair is her lab introduction. Excludes distressed lab escape, holocall, Relic projection and spaceport material.",
+  "source_url": "https://dotesports.com/cyberpunk/news/cyberpunk-2077-how-to-complete-the-firestarter-quest-in-phantom-liberty",
+  "new_sample": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\samples\\songbird-2-new.wav",
+  "new_sha256": "05d6fe2ee37069b3924d0656297538995112413052e39f3924e05fa20a471da2",
+  "new_seconds": 3.6,
+  "previous_reference_audio": "K:\\ghostline77\\audio\\voices\\songbird\\neutral-2\\reference.wav",
+  "previous_reference_text": "I could. All I'd need is twenty-four hours, the right setup and a bottomless pot of coffee.",
+  "previous_sample": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\samples\\songbird-2-previous.wav",
+  "previous_sha256": "8ce3ed1d36caf8e81f404fff585f57faaed5997ea04163a25e5ad6c975163165",
+  "previous_seconds": 4.88
+}

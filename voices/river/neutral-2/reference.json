@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "1ec289523da0b2e4fac9bb20875ad1253a00a58e6b6c87ad34b684fbb8e9db1a",
+  "speaker": "river",
+  "variant": "neutral-2",
+  "mode": "full_reference",
+  "reference_text": "License, equipment, software – it's all in order. Just haven't figured out how to market myself...",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 89,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "fff69d7469de281173c53213bc2eca74b080580e2d068c50d0050bae7d38d4cf",
+    "reference.wav": "6f03778a2447b4e031bddef5d0da3c7b164cc78723a0244a0246cf970bd3ef77"
+  },
+  "source_sha256": {
+    "embedding": "17f8facc7f1839b194c8316be96410d1a3bed0646c68c3d5d5d5c65fa7292d88",
+    "codes": "83a15718d86259873073f6e62bf05c443bc493c612c7920e27c582b3b13ae31a",
+    "audio": "6f03778a2447b4e031bddef5d0da3c7b164cc78723a0244a0246cf970bd3ef77"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

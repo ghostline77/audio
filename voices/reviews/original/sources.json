@@ -1,0 +1,14 @@
+{
+  "conditioning-policy.json": {
+    "original_path": "generated-voices/vanilla-library/voice-conditioning-policy.json",
+    "sha256": "33dabaf2cdf19e308eebbfc54e5b928bc4d786a3d0f6b0e25568edf52c707848"
+  },
+  "twins-preferred-recipe.json": {
+    "original_path": "generated-voices/french-twins/preferred-recipe.json",
+    "sha256": "8c32a23465104717d3fb5266512485c90371e887706ca7b690e278fe1b5765a5"
+  },
+  "v-selected-voices.json": {
+    "original_path": "generated-voices/vanilla-library/selected-voices.json",
+    "sha256": "afbb5d651df83adfb2d3f6588db0eb110e12c19e7e3ae0f9a6f5de72a8b54398"
+  }
+}

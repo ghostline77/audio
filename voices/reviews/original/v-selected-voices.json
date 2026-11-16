@@ -1,0 +1,26 @@
+{
+  "V Female": {
+    "method": "full_reference",
+    "instruction": null,
+    "embedding": "H:\\projects\\Ghostline\\generated-voices\\vanilla-library\\v-neutral\\embeddings\\v_scene_kerry_default_f_1abf5e82a229f004.safetensors",
+    "reference_wav": "H:\\projects\\Ghostline\\generated-voices\\vanilla-library\\v-neutral\\references\\v_scene_kerry_default_f_1abf5e82a229f004.wav",
+    "reference_text": "Just worked out that way. Came to Night City, got my first job, then another... And so on, and so forth.",
+    "reference_codes": "H:\\projects\\Ghostline\\generated-voices\\vanilla-library\\v-neutral\\codes\\v-female.json",
+    "date": "2026-10-12",
+    "audition_text": "We have everything we need. Give me a minute, and I'll find a way inside.",
+    "audition_wav": "H:\\projects\\Ghostline\\generated-voices\\vanilla-library\\v-neutral\\contraction\\samples\\full\\vanilla_audition\\v_female_reference_1-version00.wav",
+    "seed": 16063713645346643884
+  },
+  "V Male": {
+    "method": "full_reference",
+    "instruction": null,
+    "embedding": "H:\\projects\\Ghostline\\generated-voices\\vanilla-library\\v-neutral\\embeddings\\v_scene_kerry_default_m_1abf5e82a229f004.safetensors",
+    "reference_wav": "H:\\projects\\Ghostline\\generated-voices\\vanilla-library\\v-neutral\\references\\v_scene_kerry_default_m_1abf5e82a229f004.wav",
+    "reference_text": "Just worked out that way. Came to Night City, got my first job, then another... And so on, and so forth.",
+    "reference_codes": "H:\\projects\\Ghostline\\generated-voices\\vanilla-library\\v-neutral\\codes\\v-male.json",
+    "date": "2026-10-12",
+    "audition_text": "We have everything we need. Give me a minute, and I'll find a way inside.",
+    "audition_wav": "H:\\projects\\Ghostline\\generated-voices\\vanilla-library\\v-neutral\\contraction\\samples\\full\\vanilla_audition\\v_male_reference_1-version00.wav",
+    "seed": 4194886219918768989
+  }
+}

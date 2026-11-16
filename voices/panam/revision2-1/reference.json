@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "2dbe8d16814cf588b5b5086f75bda1d227aa6133901a05d13921bc560fddff8b",
+  "speaker": "panam",
+  "variant": "revision2-1",
+  "mode": "full_reference",
+  "reference_text": "With that ride, I can take any transport job in town. Without it, only thing I can move is pizza. Maybe.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 84,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "04f329d7f08f94bcb8ec69b67fec62db7f6eca2f1d34bb4f59972732b9dd4288",
+    "reference.wav": "2c8a6d89a88706373ec7b7a2ff94a769424f3e27f403dc1c5ad09d9d081f1ed2"
+  },
+  "source_sha256": {
+    "embedding": "4e311cb52c907cc206339dfa30b267a0acd84d2532ebcc05af5419c32206b190",
+    "codes": "2f035db602d0b90e463d6bd023bba65a4eba933e2c83778452dea47ac2f3575c",
+    "audio": "2c8a6d89a88706373ec7b7a2ff94a769424f3e27f403dc1c5ad09d9d081f1ed2"
+  },
+  "selection": {
+    "source_group": "revision2"
+  }
+}

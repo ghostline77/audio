@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "f5fe7391e7926767f60494efab771f7194b97480d5ccff311e9c3bce6ae23cce",
+  "speaker": "viktor",
+  "variant": "original-2",
+  "mode": "full_reference",
+  "reference_text": "If you can manage to cross those few yards... the rest'll be up to you and you alone.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 89,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "2668b73110e2ccc95a254344b1d987f4ca5a8c50c83b360f3837b409cd95b246",
+    "reference.wav": "426128a66b6866efba8ad854f50ad3b8f8c6d637bbe44439f8b7a84a2b174a01"
+  },
+  "source_sha256": {
+    "embedding": "1735b3bce5b5a57bc0a5945ef9dc840ed3708cc24f0ecccbeba2593e11c01e1c",
+    "codes": "64d02e757b60ab2169b4d2f928cdabae60b4f20344fe8b7d7c92231522923ee7",
+    "audio": "426128a66b6866efba8ad854f50ad3b8f8c6d637bbe44439f8b7a84a2b174a01"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "edc70bc34d74df4b708f73aa3a75b525d4b5ccf2d1be068eddab6fceac0402db",
+  "speaker": "takemura",
+  "variant": "neutral-2",
+  "mode": "full_reference",
+  "reference_text": "Visit me in Kagawa – I will show you what is real food.",
+  "instruction": "Preserve the reference speaker's Japanese-accented English and measured syllable timing. Match the reference's natural pitch and tone. Keep the delivery calm; do not exaggerate the accent.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 68,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "d1a77cdc804665b6dcd197a78c32fbd31ca2548ced7c943c40792d186503476f",
+    "reference.wav": "85bd0f9e055378b265ba7e8bed68c033c6b87e79a720227e16d9f6f822138db1"
+  },
+  "source_sha256": {
+    "embedding": "fe2f87c2f50111b261430486979b14efe144a28c7c560fd4cbab0a3e8216e7f2",
+    "codes": "c612089f12c15e90f1bd716a4d0451f3f66903fab2a8270f1ed90e7a306964f6",
+    "audio": "85bd0f9e055378b265ba7e8bed68c033c6b87e79a720227e16d9f6f822138db1"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "f0e0f524427d55b3c82d9128da6aff198e6f166287067fde946268c3536abb4f",
+  "speaker": "kerry",
+  "variant": "original-1",
+  "mode": "full_reference",
+  "reference_text": "Naturally modest, naturally blunt or boring as hell. Still can't decide which one you are.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "1b329e7be25e0835f4eda5212e12123f053b023e1a8cf078e1a931b0dd322db2",
+    "reference.wav": "c5901a359ba8e81dba14cc1a26b002322933e735b9cb2a010a4d6cffa8a41a21"
+  },
+  "source_sha256": {
+    "embedding": "ac57d66e009dfca62b3bf768e9fdabebabf72c4199176d53bd666ab3824f87ab",
+    "codes": "ad20b7c416335f6a0b45cb97cf8c53c19da7d967946bee7c7f73c288b64b8277",
+    "audio": "c5901a359ba8e81dba14cc1a26b002322933e735b9cb2a010a4d6cffa8a41a21"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

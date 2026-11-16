@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "19aba6fd98513f2030e4c10ae8cbb2634de1bd533968ba3088a95053b93b96bd",
+  "speaker": "viktor",
+  "variant": "original-1",
+  "mode": "full_reference",
+  "reference_text": "I've lost touch with most. Unfortunately, it's like we started speaking different languages.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "99efec5b59218e548a23dd3828f8e2267b37cc4738c9ee5cd216ef48e268b2d2",
+    "reference.wav": "68441fb439601a487684a1f0d827ac4e196ec2edc8183a5b674eb68e37d1b064"
+  },
+  "source_sha256": {
+    "embedding": "dc13cea701aec9b2dc011ca201e433d21b689e180c8e38d8538b10010947f0d2",
+    "codes": "b5e729cdd2272402f60683155d25da735cb5b608c23c81845a9acab960e96309",
+    "audio": "68441fb439601a487684a1f0d827ac4e196ec2edc8183a5b674eb68e37d1b064"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "17ccf3d0ad6006726db1b7a2ab71af9c031b8cf0ea8206f237d5ff1984b5e819",
+  "speaker": "songbird",
+  "variant": "revision2-1",
+  "mode": "full_reference",
+  "reference_text": "In short, it’s storage, a carrier for an AI trapped within certain boundary conditions.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 71,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "65c25faf68014088fce2a3708320aa0ebc4f94e2a6371d8b01e6a4b8dc1d5a75",
+    "reference.wav": "65bb5b922e82492a6758e2fb8a55dbf2574eaf4f5269ca68a84b6901418b960c"
+  },
+  "source_sha256": {
+    "embedding": "25cd83bdcc73a71012a0152cde558113ebe896895a68fef27aabcd1b65ea3885",
+    "codes": "1f80cc8ed872762ad2d3311910882e93a976e93287fe346da14a08e0e6202eb7",
+    "audio": "65bb5b922e82492a6758e2fb8a55dbf2574eaf4f5269ca68a84b6901418b960c"
+  },
+  "selection": {
+    "source_group": "revision2"
+  }
+}

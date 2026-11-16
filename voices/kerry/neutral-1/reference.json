@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "c08d3f016af0b5d0e3f08a4b94e78fb58374339b154d2b1be1b1552b8b507b81",
+  "speaker": "kerry",
+  "variant": "neutral-1",
+  "mode": "full_reference",
+  "reference_text": "Got a few ideas in the works. Mostly scraps, though. We'll see what comes of 'em.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 84,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "a3bd21e2c5a6eb88eb247424d2bb248f3bb5db4321288665bed1e4df7c79b2ff",
+    "reference.wav": "010dbceaad3052699960beb2569a071726d8c0f741da40d6bfa7ad1c97c561fb"
+  },
+  "source_sha256": {
+    "embedding": "14ea22d4a8852f399753554e1a3c22d04f7a7cde46cfaef643c88db7a449b46c",
+    "codes": "a580288ef51ab9c7eefb3ff9f554f6d380842176d24a2b53776a9c9f9d98be29",
+    "audio": "010dbceaad3052699960beb2569a071726d8c0f741da40d6bfa7ad1c97c561fb"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

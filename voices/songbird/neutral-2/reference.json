@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "e07f865f8db3487994bafe73956fe530ce59beae03c7dc1d360f4242a04aee12",
+  "speaker": "songbird",
+  "variant": "neutral-2",
+  "mode": "full_reference",
+  "reference_text": "I could. All I'd need is twenty-four hours, the right setup and a bottomless pot of coffee.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 68,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "af58a6272e66f541f22c41bf9844eb1bb985135738c70b7b2f2d55eb26764def",
+    "reference.wav": "2242361f92821fa172a7e8dd6ed6fe48bcbff3748a174e7d304408356ea2b2de"
+  },
+  "source_sha256": {
+    "embedding": "569893ae6ee0dcac9baa81a6baac7b61296b7fd5417dc3e636e9cdb01a871aa4",
+    "codes": "65e87abbd747b3e1bb6744a453b057e1dd996989e6bbe4bc46edf84354e422ad",
+    "audio": "2242361f92821fa172a7e8dd6ed6fe48bcbff3748a174e7d304408356ea2b2de"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

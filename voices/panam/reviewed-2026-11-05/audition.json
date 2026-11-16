@@ -1,0 +1,43 @@
+{
+  "fingerprint": "9545ca07e53da5afd3a503df515b501e1642605892667e263125aa8f243019be",
+  "sha256": "e3c6d76bd99925f054c774a7bacc6c5f24a12a175a3d623dc01ef2b2c57d97d7",
+  "request": {
+    "text": "We have everything we need. Give me a minute, and I'll find a way inside.",
+    "language": "English",
+    "instruction": "",
+    "seed": 10764733800307044229,
+    "sampling": {
+      "max_new_tokens": 120,
+      "min_new_tokens": 2,
+      "temperature": 0.95,
+      "top_k": 50,
+      "top_p": 0.98,
+      "do_sample": true,
+      "repetition_penalty": 1.0
+    },
+    "reference": "844f382075fb15c4a43a9984b82587ed340203cbca5168d1dd90a67e4a102e02",
+    "backend": {
+      "checkpoint": {
+        "path": "X:\\checkpoints\\Qwen\\Qwen3-TTS-12Hz-1.7B-Base",
+        "sha256": "f7a9298821573788f2d5f4a39b45fee096a0f660032af5f4a3cee7d9f5667b3c"
+      },
+      "backend": "faster-qwen3-tts/torch",
+      "versions": {
+        "faster-qwen3-tts": "0.5.4",
+        "qwen-tts-hf": "0.1.1.post1",
+        "transformers": "5.15.1",
+        "torch": "2.13.0+rocm10.0.0"
+      },
+      "device": "AMD Radeon RX 9070 XT",
+      "hip": "7.15.26333",
+      "dtype": "bfloat16",
+      "attention": "sdpa",
+      "max_seq_len": 4096
+    }
+  },
+  "timing": {
+    "seconds": 8.36084519996075,
+    "audio_seconds": 4.64,
+    "realtime_factor": 1.8019062930949892
+  }
+}

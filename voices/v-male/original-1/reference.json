@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "30d18f7a2ba22c5aa6653500ad9238845d4fc3a5eed23135590655fba1a8c7a1",
+  "speaker": "v-male",
+  "variant": "original-1",
+  "mode": "full_reference",
+  "reference_text": "Oooh... what would your manager say? I mean, not like your KPIs can include your under-the-counter deals.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "73e095b1a6bd091e6ab00098c43a576248149d158224332448e539eddef97637",
+    "reference.wav": "49323e352608e45967ec6d0e7ec10f96b70fa658686ca413392a204044970d91"
+  },
+  "source_sha256": {
+    "embedding": "6bb0201767f217f64d8af1ce45106d6132c951779939e61fdb52cf9017baa4d3",
+    "codes": "550b560d8f21fdb67e6fbad9bce3b0f71320a8b61a1788ed3e84f92db5bdc80d",
+    "audio": "49323e352608e45967ec6d0e7ec10f96b70fa658686ca413392a204044970d91"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

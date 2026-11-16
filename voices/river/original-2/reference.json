@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "7089bb8847ef57776f5bfcb56dc2d6acf048eea06f05200d7e107f21a2c1aa51",
+  "speaker": "river",
+  "variant": "original-2",
+  "mode": "full_reference",
+  "reference_text": "Last night I was sittin' at the bar just mindin' my own business, when some guy starts mouthin' off about the kids on the farm.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 89,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "1c995c712f4985391ee8b059e0708d220b244cc625c036f3b646cfe963f67f0c",
+    "reference.wav": "6bd5bfa266acba720fd55a65c2f9202201e78d984d911a4fc0c27a3876c35c1f"
+  },
+  "source_sha256": {
+    "embedding": "9b775bd31e702f1c5a8e74a6d7022e01435cb25260cf67d009be529de9a07eb6",
+    "codes": "006f9a186f4d9b72819784b0faa4de1aaa4908f9c69a77d5f1851aedfdc384c1",
+    "audio": "6bd5bfa266acba720fd55a65c2f9202201e78d984d911a4fc0c27a3876c35c1f"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

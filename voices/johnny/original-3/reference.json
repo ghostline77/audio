@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "7cf95929c08beceb6805b10e5c4d3911060f2f907870abba8038e28591d3981c",
+  "speaker": "johnny",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "Your presidential rescue op – miserable failure. Honestly, though? Good fuckin' riddance.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 90,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "35696eebc6f0f87a527322b3f519a4dff7bf44be645b73dfbd39a6c4af4833ab",
+    "reference.wav": "b0be0e8396894b1e16f77ac825d75910ae6ac4f4e56d94cea79f73afdbe91aa0"
+  },
+  "source_sha256": {
+    "embedding": "c60fb0015fbc67f42a4261da5f1797c06ba1282a14106ae1d144f014c0ad5561",
+    "codes": "77508dea4d8c2fdf03787bf629a6dec8e5505c6515bc51136c8b883309b17f90",
+    "audio": "b0be0e8396894b1e16f77ac825d75910ae6ac4f4e56d94cea79f73afdbe91aa0"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

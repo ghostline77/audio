@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "4d05943684c3abcff546afe7c3b5bb6938d46aace5cbe8ad4970aa36ecf7b519",
+  "speaker": "songbird",
+  "variant": "original-1",
+  "mode": "full_reference",
+  "reference_text": "But I should've looked to the past. To lessons about loss, repeated, repeated…",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 92,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "503fff3c2574d8a542532affc350a57c8b7c615fe11378db72f6a227340843db",
+    "reference.wav": "43a8e94276be20ee7598efa2dc25f3ad5896d57a5319918b8c7da67d16feb9fb"
+  },
+  "source_sha256": {
+    "embedding": "2082ba8253d13828d97b166fd208a58aee20d8dad8acf67dbae240241d63a541",
+    "codes": "ad01dc8b0c2ff7d433ed373d35b31288a64b910c1388a78768b8258dd499ea4a",
+    "audio": "43a8e94276be20ee7598efa2dc25f3ad5896d57a5319918b8c7da67d16feb9fb"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

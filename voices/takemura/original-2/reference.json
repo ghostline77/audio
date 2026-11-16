@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "e70bd9d6bba23101b450b75123e9c731e3100dc5cfcfb18d642411b3e12e8c72",
+  "speaker": "takemura",
+  "variant": "original-2",
+  "mode": "full_reference",
+  "reference_text": "You see a man robbed of his implants, money and dignity. Look well.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "f36e6b15500f02e7f41c79c5bd22bd79fa81d2ffb7dc0b0f83a1bc5522038f66",
+    "reference.wav": "60e4cb2458905fc53b463997471b8e2bbbcf8ce041fdf3066ba96abe74c99fa1"
+  },
+  "source_sha256": {
+    "embedding": "1de3a811e8eb356898407a858e553c45d05d8c5898abf9a43be41fded00fd5e2",
+    "codes": "833e3839501fc8f5fef761a5e56fab2dfb0f40eae07aa1b35f27ad2a54a0f6a2",
+    "audio": "60e4cb2458905fc53b463997471b8e2bbbcf8ce041fdf3066ba96abe74c99fa1"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

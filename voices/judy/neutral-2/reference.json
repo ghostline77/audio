@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "1fe14aef5773386c8e32486d6a86a5bc55e257512a0679c34b996722d28f6094",
+  "speaker": "judy",
+  "variant": "neutral-2",
+  "mode": "full_reference",
+  "reference_text": "Oh, before I forget. Some lady called me – Elizabeth something. Said she had a job for someone with an eye for virtus.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 95,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "b746a7413de6b1d989b98d8d03a558e7d08748ce0f3cc92dd4fc86d3e1cae8ae",
+    "reference.wav": "61e9edea2d2d436eb64dd827efbbbb8e64006acdf44111cf2c5e4f3fa41c9860"
+  },
+  "source_sha256": {
+    "embedding": "677a31fe0ffa952091f4aa045c3ed29777cc3a8bd116af72974280b0dc526d0e",
+    "codes": "e9bfdb217520da5586c29382a9d20a20afe8e5c505b0bfd4d99d425b282bf80d",
+    "audio": "61e9edea2d2d436eb64dd827efbbbb8e64006acdf44111cf2c5e4f3fa41c9860"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "dc9892eba718e6c91afc07a28e65758aabbb10930ecb0ddbf443b7610a6a9c6a",
+  "speaker": "aymeric",
+  "variant": "selected",
+  "mode": "full_reference",
+  "reference_text": "And to spend five years on efforts to… change how people see you, call you?",
+  "instruction": "Match the reference speaker's French-accented English. Keep the voice natural and conversational, with precise consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 79,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "727ee1f57ffba3fb70b9b4401759bff1182f848ff9270bb8d33cff8009b79035",
+    "reference.wav": "4b0b439051af84b91cc88305df39b6abca5828dbc4d20fd21b7e777d24b42963"
+  },
+  "source_sha256": {
+    "embedding": "cadaecee53cc4858f9f2bee76824228b4ac3267764cf4c9e578c12d38137b6b5",
+    "codes": "a281797045fb9dca1714efab4efb16dab081e6ef5654e1f53f64122d18cfda8f",
+    "audio": "4b0b439051af84b91cc88305df39b6abca5828dbc4d20fd21b7e777d24b42963"
+  },
+  "selection": {
+    "method": "Full + Instruction",
+    "date": "2026-10-12"
+  }
+}

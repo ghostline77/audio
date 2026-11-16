@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "a4045dc205dd52b5926df4a3c2bc2edb5b4cdf285cc0df8c6a6b8032b27bf498",
+  "speaker": "songbird",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "Pain made it seem like forever to me. Anything specific keep you?",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 90,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "8234164e0b004cf2257bc11ef81a21350c35545ef6ba279a8e0329dfd771637b",
+    "reference.wav": "6fdbbbd6631cc4013ecebfcda1bd3a482aa148ca89f1e298a8b57a7060349a28"
+  },
+  "source_sha256": {
+    "embedding": "f4f14d9850a3736d9f8ac4df3a1a92592602d836acfe054fbc17999c87c83eba",
+    "codes": "5206a16dbf63c82cf8a8b03751658aaa33a733dd50d48b73e064e3daa8329bf0",
+    "audio": "6fdbbbd6631cc4013ecebfcda1bd3a482aa148ca89f1e298a8b57a7060349a28"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

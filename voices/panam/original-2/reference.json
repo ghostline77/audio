@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "f760d4c5acf021b5b33f417ec1dfc3945905db0ac91b48e30bf515323a036261",
+  "speaker": "panam",
+  "variant": "original-2",
+  "mode": "full_reference",
+  "reference_text": "The gun is calibrated. You'll have system support. Just be careful with the recoil, it sometimes knocks things out of balance.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "e9da1422ac7e390a47c10f97f59a067e8e71656879458f09afed28695e974d30",
+    "reference.wav": "505c8cfcf4d917c904b02f97f5c3344b4e8d5a679de9034d8ed2de59744e3290"
+  },
+  "source_sha256": {
+    "embedding": "e3afbaf001ba46cf187e80f62ad8df1674c7f5f84f63263e43b513f017c86814",
+    "codes": "a38158c539d2e6e02f178eee67d3edc961184fa1d74ef2a63153d47462fcb184",
+    "audio": "505c8cfcf4d917c904b02f97f5c3344b4e8d5a679de9034d8ed2de59744e3290"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

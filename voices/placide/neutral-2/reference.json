@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "0096a3e699e788cdd6c8b486f80affd54f01e91085d26e7806774a06d0c8e6be",
+  "speaker": "placide",
+  "variant": "neutral-2",
+  "mode": "full_reference",
+  "reference_text": "You are my vessel now. Through Agwe I see what you see, hear what you hear.",
+  "instruction": "Preserve the reference speaker's Haitian Creole-influenced English accent, low resonant tone and deliberate rhythm. Keep the delivery natural and calm; do not exaggerate the accent.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 65,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "0ccd6bdce37875fa48695ccfb2105702ba6810083267cc3bacebbe5a191136de",
+    "reference.wav": "9c630be73fb9f34bd28138ed4e68c908450f4a037f95c09f82120e17dc025e49"
+  },
+  "source_sha256": {
+    "embedding": "04b1b4d2089d54cacecbd1d93033943c4ae58476a54e44758b2149b2b2a68cf8",
+    "codes": "d361126f677608ddd7c31d36d81f161f9f666e4464feb758934ffb1adcf862e8",
+    "audio": "9c630be73fb9f34bd28138ed4e68c908450f4a037f95c09f82120e17dc025e49"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

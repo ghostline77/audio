@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "dbb719f217e8766a6727af6b817626f5cfe43944a92a24de22db82fe45e475db",
+  "speaker": "panam",
+  "variant": "revision2-2",
+  "mode": "full_reference",
+  "reference_text": "A Subterranean Extraction and Removal Combine. It's... automated tunnel boring.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 79,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "48a74c86f0a56d9a5477e38acaf5523b730a5aad06a39d240d2595d7526d0d80",
+    "reference.wav": "268cb49acaa6e4172ee0f7ae9f85b0194c2867338ca4ad632fc0e3ed6d9ababa"
+  },
+  "source_sha256": {
+    "embedding": "7847ab60b95a3c7629e5293cc63a1ba974988f7309ce84a3feee0896ad3f82e4",
+    "codes": "a6c547b52e88360ae9db54c0f7c02bc44ad31a7c2b5620efe628c4009bd3674a",
+    "audio": "268cb49acaa6e4172ee0f7ae9f85b0194c2867338ca4ad632fc0e3ed6d9ababa"
+  },
+  "selection": {
+    "source_group": "revision2"
+  }
+}

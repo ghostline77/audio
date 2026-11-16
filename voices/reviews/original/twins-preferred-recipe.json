@@ -1,0 +1,75 @@
+{
+  "schema_version": 1,
+  "selected_method": "Full + Instruction",
+  "selected_date": "2026-10-12",
+  "model": "Qwen3-TTS-12Hz-1.7B-Base",
+  "checkpoint": "X:/checkpoints/Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+  "index": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\preferred-voice-production.json",
+  "reference_prompts": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\reference-prompts.json",
+  "instruction": "Match the reference speaker's French-accented English. Keep the voice natural and conversational, with precise consonants and restrained confidence.",
+  "seed_base": 12000,
+  "max_frames": 120,
+  "generation_artifact": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\artifacts\\base_generation_p256_f288",
+  "decoder_artifact": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\artifacts\\tokenizer_decoder_f256",
+  "reference_encoder_artifact": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\artifacts\\tokenizer_encoder_dynamic_s240000",
+  "references": {
+    "aurore": {
+      "wav": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\reference\\aurore\\vo\\bella_net_q303_f_2d7a7bf75d521000.wav",
+      "transcript": "I myself have a small firm in Paris. My stand-in take calls, arranges meetings and deflects, deflects, deflects.",
+      "embedding": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\embeddings\\bella_net_q303_f_2d7a7bf75d521000.safetensors",
+      "codes": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\references-icl\\aurore.json"
+    },
+    "aymeric": {
+      "wav": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\reference\\aymeric\\vo\\theo_net_q303_f_2eb34ec852521000.wav",
+      "transcript": "And to spend five years on efforts to… change how people see you, call you?",
+      "embedding": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\embeddings\\theo_net_q303_f_2eb34ec852521000.safetensors",
+      "codes": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\references-icl\\aymeric.json"
+    }
+  },
+  "selected_samples": [
+    {
+      "dialogue": "twins_audition",
+      "line_key": "twins_aurore_01",
+      "speaker": "Aurore",
+      "version": 0,
+      "seed": 14963800281017193201,
+      "wav": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\samples\\icl_instruction\\twins_audition\\twins_aurore_01-version00.wav",
+      "sha256": "258abe0c0b5411776e4a8b94fe19801f4fd2511fec1e68884d79fe27d7f1aaa7",
+      "reused": false,
+      "design": "8506d6f050f6164960c79e179b17f050027dd18e2111f473409381b229eed397"
+    },
+    {
+      "dialogue": "twins_audition",
+      "line_key": "twins_aurore_02",
+      "speaker": "Aurore",
+      "version": 0,
+      "seed": 14963796982482308568,
+      "wav": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\samples\\icl_instruction\\twins_audition\\twins_aurore_02-version00.wav",
+      "sha256": "6fee3938e12a4a84187841407aa7573b373f969a6992b703d86bf66b6a00efd4",
+      "reused": false,
+      "design": "8506d6f050f6164960c79e179b17f050027dd18e2111f473409381b229eed397"
+    },
+    {
+      "dialogue": "twins_audition",
+      "line_key": "twins_aymeric_01",
+      "speaker": "Aymeric",
+      "version": 0,
+      "seed": 17537517394969902421,
+      "wav": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\samples\\icl_instruction\\twins_audition\\twins_aymeric_01-version00.wav",
+      "sha256": "bdbeb800598934d35843ac0ea0be9746cf180e6b81b70926aa9386d86339b8b0",
+      "reused": false,
+      "design": "b580d017c6d14120f488f02b5adf6e176434d22e880e09c0c989566e5eb2e7a4"
+    },
+    {
+      "dialogue": "twins_audition",
+      "line_key": "twins_aymeric_02",
+      "speaker": "Aymeric",
+      "version": 0,
+      "seed": 17537514096435017788,
+      "wav": "H:\\projects\\Ghostline\\generated-voices\\french-twins\\samples\\icl_instruction\\twins_audition\\twins_aymeric_02-version00.wav",
+      "sha256": "6d0cb74da8521f8a8583d03d460a33f0fde0f10426df160832b571872039575d",
+      "reused": false,
+      "design": "b580d017c6d14120f488f02b5adf6e176434d22e880e09c0c989566e5eb2e7a4"
+    }
+  ]
+}

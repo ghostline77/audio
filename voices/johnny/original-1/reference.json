@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "80bd7566ebe9a8be4d88ce565fc5932b70e158566517a0d790431c8104d3450a",
+  "speaker": "johnny",
+  "variant": "original-1",
+  "mode": "full_reference",
+  "reference_text": "These ain't athletes, V. They're kids. Kids way too young for this kind o' chrome.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 92,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "30e4da5533daaf62f0f54f539569d74650508266d9eec79acb66cf2874f3aa82",
+    "reference.wav": "9579f7fe23f0cfc4fb7a8f301870f3f20b3769097b3c66bd1c9e768ee9dd1639"
+  },
+  "source_sha256": {
+    "embedding": "e3a17a0454e3ce993431c040440cd044ad683b9b647747e0ae27d2f45848bca6",
+    "codes": "a127217acd1dd1b7c57dae0e7cb03656d2354f0c958a239f7d1995fa09ff1678",
+    "audio": "9579f7fe23f0cfc4fb7a8f301870f3f20b3769097b3c66bd1c9e768ee9dd1639"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

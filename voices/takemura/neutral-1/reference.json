@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "7aae132c1e65eca9e8eadf0725482391924a7d9e27ee69f73dbb28fdcf1c5b02",
+  "speaker": "takemura",
+  "variant": "neutral-1",
+  "mode": "full_reference",
+  "reference_text": "It is the first animal I see in Night City. Except cockroaches, of course.",
+  "instruction": "Preserve the reference speaker's Japanese-accented English and measured syllable timing. Match the reference's natural pitch and tone. Keep the delivery calm; do not exaggerate the accent.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 77,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "840be63c0adacdda8cf92cf5ae58165b99636c7857b41efd945b51b86ded915a",
+    "reference.wav": "57ad7cf3f3b3d4666f94a2d63233427010614ed7b97ae3611976783539d1e54d"
+  },
+  "source_sha256": {
+    "embedding": "d372fd724863b88625813051326788a7c30c5f8fc42eb98aebd2f0b7a079650e",
+    "codes": "dbac12095a86f7f5796ee8be38ad7d090fec6c1d0acce3403ca7327a929b94dc",
+    "audio": "57ad7cf3f3b3d4666f94a2d63233427010614ed7b97ae3611976783539d1e54d"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

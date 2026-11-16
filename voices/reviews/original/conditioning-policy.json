@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-12",
+  "default_method": "full_reference",
+  "default_instruction": null,
+  "instruction_policy": "Use optional, targeted accent guidance when needed; compare against full reference without instructions.",
+  "confirmed_preferences": {
+    "Aurore": "full_reference_with_instruction",
+    "Aymeric": "full_reference_with_instruction",
+    "V Female": "full_reference",
+    "V Male": "full_reference",
+    "Takemura": "full_reference_with_accent_instruction",
+    "Placide": "full_reference_with_accent_instruction",
+    "Johnny": "full_reference",
+    "Jackie": "full_reference",
+    "Viktor": "full_reference",
+    "River": "full_reference",
+    "Reed": "full_reference"
+  },
+  "tentative_preferences": {
+    "Judy": "full_reference"
+  },
+  "accent_instruction_candidate": "Placide"
+}

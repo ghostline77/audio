@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "de1526b871cf84ef30f0c325c00aa1f80d3dccacf2901f650b2dd7629d51dd32",
+  "speaker": "panam",
+  "variant": "neutral-1",
+  "mode": "full_reference",
+  "reference_text": "The food. The Thai on Seventh in Heywood. The pierogis down by the docks. Mh…",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 83,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "bfa982bd3455da565cdb58e241e8e06fc9203c9d413a3864c424f957c3f7aabe",
+    "reference.wav": "d700310aaa2f7e789ff630faa30e0cc268f413945c8434fc16ab210f9e707d77"
+  },
+  "source_sha256": {
+    "embedding": "d5568aa83a1a6f9777835e3a80f3d73f25f3259b8d5f87d7dd673f2537f2be6d",
+    "codes": "a64abe1706b292cd0e10a81ff1b77cdc635134dc208a492025ec236eab442308",
+    "audio": "d700310aaa2f7e789ff630faa30e0cc268f413945c8434fc16ab210f9e707d77"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

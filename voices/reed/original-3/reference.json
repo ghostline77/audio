@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "cffa4e480f67a288305e5334db9b4c801cc129afe2b92623a583f803f2fde8ba",
+  "speaker": "reed",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "I wonder now if she was right not to believe me. Or did I keep my promise after all?",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 89,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "56fca7a22b3606f2367defdaf1f04e56d988451147da49a86f5e257aa8c3652b",
+    "reference.wav": "bbe3dd597a5a92f22a047311857bfc5c58ebaffb2ec0cc7e23e9c0bb47ee20c4"
+  },
+  "source_sha256": {
+    "embedding": "d6ea925d5d21c9616ebd6915a90313f2ad74cc6ec0a2f50ad3149d004ef02678",
+    "codes": "40297c3b3c32d1993dc675e6460c4803926027ae4576d0d0af9acd58b2d4abf3",
+    "audio": "bbe3dd597a5a92f22a047311857bfc5c58ebaffb2ec0cc7e23e9c0bb47ee20c4"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

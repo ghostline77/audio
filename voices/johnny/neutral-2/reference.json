@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "a97dc6446e423c59e76b236e23d6ecc3b28b0b2dc08b547b4bfbcaf1c8b64af9",
+  "speaker": "johnny",
+  "variant": "neutral-2",
+  "mode": "full_reference",
+  "reference_text": "Why not? How 'bout a hotdog and a cold beer while we're at it? Pretend we don't got a worry in the world.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 100,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "e7a1dcef92b8bc026f3857401ade3175cce7bf304001fb187c320534d0203cd8",
+    "reference.wav": "3682c8cafc51a40c93c53664b118d50698ccf54928c76fafdfbaf24272c1af6e"
+  },
+  "source_sha256": {
+    "embedding": "2084a480579ee6d73939d8bdca90a108c2170562c55078b32717ebf89ab60163",
+    "codes": "dbae821f2f5525a499c177fa49b76461e9391fdd284c73caa832dbe37e18d94c",
+    "audio": "3682c8cafc51a40c93c53664b118d50698ccf54928c76fafdfbaf24272c1af6e"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

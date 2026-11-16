@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "8aacbbed5152aa7b6dae0c237e7f74fb64a9795b328c5928e6f070039f2d55ac",
+  "speaker": "johnny",
+  "variant": "original-2",
+  "mode": "full_reference",
+  "reference_text": "You heard the chick. You go under the knife, and the FIA'll scrape me outta your head like fuckin' mold.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 92,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "42d369b060c1114c7a3b360148f257cfc555274443d4b15d704fc8a5d93f5313",
+    "reference.wav": "2834bb477796ff0ee41a63d96b69b03ece67a48bb457e1ddcb4caab126962e00"
+  },
+  "source_sha256": {
+    "embedding": "bfae380dc4e1ab286065a9cc2bd633ee5a3406853c7706f8aa8733034937cb1b",
+    "codes": "3953351a3a530380640da79d62daea80a7b07ad03e52bcc2ab796d1bdb774b75",
+    "audio": "2834bb477796ff0ee41a63d96b69b03ece67a48bb457e1ddcb4caab126962e00"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

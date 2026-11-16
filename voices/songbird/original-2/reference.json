@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "9b6fb5bb4ebdfcdbf88d33fc4e7dd0d229e91675ffaf22f9385f392c93dd260e",
+  "speaker": "songbird",
+  "variant": "original-2",
+  "mode": "full_reference",
+  "reference_text": "I trusted you. But I won't… won't… mistake again…",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 74,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "b017692b74dc49d379db99cf574e3f55b21b6bd4bd94a1ffc573b8e09313022f",
+    "reference.wav": "82e7f09f6950e3c74f3ed75a56cfa7d5166e61014239589b1d412b0cbeb06cbb"
+  },
+  "source_sha256": {
+    "embedding": "a0344872e26f5e8a93b09e01807501e3cbaa6e4749520647ae8b8ed973b3d27d",
+    "codes": "78796c1f4568b7fd18fec56739645347cbf90884d04f04a369f2be6ec7fb4ee5",
+    "audio": "82e7f09f6950e3c74f3ed75a56cfa7d5166e61014239589b1d412b0cbeb06cbb"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

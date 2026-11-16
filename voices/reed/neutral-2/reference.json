@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "f08927c631b0e67ced8ad4dd2cdbe505633b31110eaa60559d8d99789bae0706",
+  "speaker": "reed",
+  "variant": "neutral-2",
+  "mode": "full_reference",
+  "reference_text": "Mhm. Greenery, calm, birds chirpin'. Not what you're used to.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 72,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "6c0cac106b00fa624220a2601538ae29e12565b9140f92ba2ab03c94650f83f9",
+    "reference.wav": "aa5e5c272ff8e87ad5374865c762ee618fb1d01e4bfc7861778fdb82f86d720b"
+  },
+  "source_sha256": {
+    "embedding": "0e45efef40312dbedbc92e3c7809f3c51ca89c62339e85765fb5fd840456672c",
+    "codes": "d0f78826c9e7dcdbad915804b25651a55c55d3adda5b197165d752ea71b07f66",
+    "audio": "aa5e5c272ff8e87ad5374865c762ee618fb1d01e4bfc7861778fdb82f86d720b"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

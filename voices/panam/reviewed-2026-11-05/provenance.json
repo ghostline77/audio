@@ -1,0 +1,100 @@
+{
+  "key": "panam-2",
+  "actor": "Panam",
+  "number": 2,
+  "label": "Panam candidate 2",
+  "reference_audio": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\candidates\\panam-2.wav",
+  "reference_text": "When you're on the road day into night into day, your butt basically fusing with your seat, you forget what it's like.",
+  "seed": 10764733800307044229,
+  "instruction": "",
+  "previous_reference": "K:\\ghostline77\\audio\\voices\\panam\\neutral-2\\reference.json",
+  "sources": [
+    {
+      "actor": "Panam",
+      "id": "1896726949659815960",
+      "text": "When you're on the road day into night into day, your butt basically fusing with your seat, you forget what it's like.",
+      "depot": "base/localization/en-us/vo/panam_sq004_f_1a52871c86623018.wem",
+      "scenes": {
+        "base/quest/side_quests/sq004/scenes/sq004_08_farm.scene": {
+          "nodes": {
+            "946": {
+              "options": [
+                {
+                  "caption": "better?",
+                  "locStringId": "1896726950481899520"
+                },
+                {
+                  "caption": "nomad",
+                  "locStringId": "1896726950481899536"
+                }
+              ],
+              "children": []
+            },
+            "1734:3": {
+              "context": "Vo_Context_Quest",
+              "expression": "Vo_Expression_Spoken",
+              "children": [
+                "1734:2",
+                "946"
+              ]
+            }
+          },
+          "actors": [
+            "Panam"
+          ],
+          "addressees": [
+            "V"
+          ],
+          "quests": [
+            "base\\quest\\side_quests\\sq004\\phases\\sq004_02_drive.questphase",
+            "base\\quest\\bugfixing\\sidequests\\sq004\\sq004_quest_bugfixes.questphase",
+            "base\\quest\\side_quests\\sq004\\phases\\sq004_05_farm.questphase"
+          ]
+        }
+      },
+      "scene_evidence": {
+        "path": "H:\\projects\\Ghostline\\generated-voices\\vanilla-library\\npc-screened\\scene-json\\sq004_08_farm.scene.json",
+        "speaker": "Panam(0)",
+        "event_node": "1734",
+        "path_from_start": [
+          "4831",
+          "802",
+          "3289",
+          "4267",
+          "1734"
+        ],
+        "reachable": true
+      },
+      "original": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\originals\\panam_sq004_f_1a52871c86623018.wav",
+      "reference": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\prepared\\panam_sq004_f_1a52871c86623018.wav",
+      "sha256": {
+        "wem": "e71b6f43bde3f51453d12dedb11e1e902156225fbe6fd1316485c06cefacff87",
+        "ogg": "5e315b3768792a9f1be22c165f01ea40418e5bf185ac7525491ebcfac7fe146f",
+        "original": "32b1cff2fbf8b57319b0b9a95994ea010873518fd833ed3cc7be932ed9a8c291",
+        "reference": "d0969bf8f377bc846aa170561c4f38ea04166980adf28d78ac0d254705e6340b",
+        "scene": "9eef1de0bfbd05179ef7edebdaab417635487e19e3344614fd4196abf192eefb"
+      },
+      "signal": {
+        "rate": 48000,
+        "channels": 1,
+        "seconds": 7.316,
+        "peak": 0.706512451171875,
+        "clipped_samples": 0,
+        "quiet_10th_percentile_dbfs": -87.72901718140444,
+        "speech_to_quiet_db": 64.77699342463929
+      },
+      "reviewed_original": "source/panam_sq004_f_1a52871c86623018.wav"
+    }
+  ],
+  "mission": "Riders on the Storm",
+  "context": "Shelter conversation after the storm rescue; Panam discusses having a roof and life on the road. Same active dialogue section, physically present, no combat or phone filter.",
+  "source_url": "https://arasakas-ronin.netlify.app/",
+  "new_sample": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\samples\\panam-2-new.wav",
+  "new_sha256": "e3c6d76bd99925f054c774a7bacc6c5f24a12a175a3d623dc01ef2b2c57d97d7",
+  "new_seconds": 4.64,
+  "previous_reference_audio": "K:\\ghostline77\\audio\\voices\\panam\\neutral-2\\reference.wav",
+  "previous_reference_text": "I've come up with a plan, a first draft, but I need to sleep on it, work it out. Then we can talk about the details.",
+  "previous_sample": "K:\\ghostline77\\audio\\work\\neutral-2026-11-05\\samples\\panam-2-previous.wav",
+  "previous_sha256": "cf5b59ca38974e33712c5c98d3d6e3492324a2263c829d2b4dd367d5c0635d55",
+  "previous_seconds": 4.16
+}

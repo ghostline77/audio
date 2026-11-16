@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "960ea68a2ceed1eeddea77009db8586050f523b0b272caefa0c02fc1abf21150",
+  "speaker": "v-male",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "Dogtown... city within Night City. Know of clans who tried to establish footholds on the black market there.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 87,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "84ac1edb42feb5b0964cf722d951776443697e9962c04b938fe7c5c2b8fe9a02",
+    "reference.wav": "6bbfbdb7fa8ee67cd4d1fbb326d50186b1aae1df6c9ade05fe44bae79c361017"
+  },
+  "source_sha256": {
+    "embedding": "af2a68ed007d6f9501a89b7e6c6336362be4832f588534c14a6575bd0a700267",
+    "codes": "98fd77b7bcf211ca00978f484dc107750e485cd4281372ece911bded8efad4b4",
+    "audio": "6bbfbdb7fa8ee67cd4d1fbb326d50186b1aae1df6c9ade05fe44bae79c361017"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "46c17e5450647352812b7f8ed17d807fc1332b7ab697b43bb337242b571dd624",
+  "speaker": "takemura",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "Were I you, I would sign. But the choice is yours. Think it through carefully.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 87,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "fea9f791442a9436f40c56bc0b2c3171249495245f853e7c49dfcafe0aa782e4",
+    "reference.wav": "4f943ec7420da80c912ee6c043c51e9b30ea9019793ecd2d50496766820dd478"
+  },
+  "source_sha256": {
+    "embedding": "49fcbde7fb78b1b3374d5e32f978cc393e7147569928373330ee7c9999f27f58",
+    "codes": "e6bb86c65d71b70cc590540132ac5f0557d2ce5fa279241d89d416fda6e1ab0f",
+    "audio": "4f943ec7420da80c912ee6c043c51e9b30ea9019793ecd2d50496766820dd478"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

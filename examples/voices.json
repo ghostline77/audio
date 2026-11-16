@@ -1,0 +1,25 @@
+{
+  "voices": {
+    "NPC": {
+      "reference_audio": "../references/npc.wav",
+      "reference_text": "The exact words spoken in the reference recording."
+    }
+  },
+  "seed": 42,
+  "candidates": 3,
+  "sampling": {
+    "max_new_tokens": 1024,
+    "temperature": 0.9
+  },
+  "lines": [
+    {
+      "speaker": "NPC",
+      "gender": "shared",
+      "language": "English",
+      "text": "Keep your voice down. Someone's listening.",
+      "instruction": "Speak quietly, with restrained urgency.",
+      "key": "line-001"
+    }
+  ],
+  "namespace": "example.q001"
+}

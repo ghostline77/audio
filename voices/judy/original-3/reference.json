@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "ebcd3a79baebc6571c3e6d7f6d8b899089c65904e28b64414be97859655c6cc2",
+  "speaker": "judy",
+  "variant": "original-3",
+  "mode": "full_reference",
+  "reference_text": "No, hard pass. And I don't want you comin' back with any. Especially lead ones.",
+  "instruction": "Match the reference speaker's voice, accent, and natural speaking style. Speak conversationally, with clear consonants and restrained confidence.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 88,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "5a042dd30c15ee81b1925c2472fc3d9be9208ba0dd71ef4cfe278bc0749a2a05",
+    "reference.wav": "bc49354b4f8e36f92fd5e86368755691d0f3d53247d6b00865c91a62207a4bcc"
+  },
+  "source_sha256": {
+    "embedding": "7387b384b4832dbc6bfeee6de6ec535253d874628f97fca1677e0865ccae7230",
+    "codes": "151333a64f17e4876f7e2e68b88b4cf3c51ac4afcd10b30b4be0f05fce95276d",
+    "audio": "bc49354b4f8e36f92fd5e86368755691d0f3d53247d6b00865c91a62207a4bcc"
+  },
+  "selection": {
+    "source_group": "original"
+  }
+}

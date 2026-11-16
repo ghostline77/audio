@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "5ae5f2314b5692b11dca36ac960e2bf64b5059e36b0d0756120ce365c5a334b0",
+  "speaker": "placide",
+  "variant": "neutral-1",
+  "mode": "full_reference",
+  "reference_text": "NetWatch is corp, paid for by other corps, to protect corp interest on de Net.",
+  "instruction": "Preserve the reference speaker's Haitian Creole-influenced English accent, low resonant tone and deliberate rhythm. Keep the delivery natural and calm; do not exaggerate the accent.",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 82,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "5829f2b49b48b64416350f18d65c3e7446d21c2925a0d36d9f6f4098e8bc63d1",
+    "reference.wav": "7e9d15b5d66a50ff8a9df8ce8670e174849d1ce4ed336fcbc126032e6d0e73ec"
+  },
+  "source_sha256": {
+    "embedding": "dd6b81340e8e0af209060cdab7e7ec3c88b17f87eae8fb5cd3041860189b0b3b",
+    "codes": "6303ce0e55e2ed1551253a0caafb9a2b9c4c3ba58f7c9b6a1e1cb2148c7f53cf",
+    "audio": "7e9d15b5d66a50ff8a9df8ce8670e174849d1ce4ed336fcbc126032e6d0e73ec"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

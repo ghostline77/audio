@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "e9b70f331a2e59c06836c7446f065590f574901f9f048c739afa8daa3f189568",
+  "speaker": "johnny",
+  "variant": "neutral-1",
+  "mode": "full_reference",
+  "reference_text": "Not to me. Don't forget, I've spent the last fifty years stuck in my head.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 74,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "c0c7e32315f78ae0844087102733cce5f4d0547f6ef8c5cfd3f112b25042d995",
+    "reference.wav": "9a58b7cc5238ec59265d3ea80443c8134831e5e7931ba02a87614e38dd7e80c0"
+  },
+  "source_sha256": {
+    "embedding": "77ac5eee16b7b2294cd854c209a061d8e5df81d9622f41a8b8f83fd077b7dca1",
+    "codes": "902e7a3278cfd586444270563766ccc405346d0cbf6f583d9e8147b4233a04a5",
+    "audio": "9a58b7cc5238ec59265d3ea80443c8134831e5e7931ba02a87614e38dd7e80c0"
+  },
+  "selection": {
+    "source_group": "neutral"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "schema": "ghostline-voice-reference-v1",
+  "fingerprint": "9984bd6c946eaec6941c3a27cbae9f456c243622d7e1d55c1cd1edeabbcc4ad8",
+  "speaker": "kerry",
+  "variant": "revision2-2",
+  "mode": "full_reference",
+  "reference_text": "Dunno. Could do one gig. Play some dive where nobody'd place us.",
+  "instruction": "",
+  "tensors": "reference.safetensors",
+  "audio": "reference.wav",
+  "frame_count": 81,
+  "code_groups": 16,
+  "sha256": {
+    "reference.safetensors": "97cb62d34082c100b0373ded6608093c71816f39443eb40be80552f71f64c525",
+    "reference.wav": "a5a476fe1e00a517a27645eed70ce2f4ce93ed08c7109f23fdaa11f16d42bcb4"
+  },
+  "source_sha256": {
+    "embedding": "182f454e0538497345205ae76486bfcf773ff3987de4c3290b253bda2f825f2a",
+    "codes": "77b8f78ffab17f80ee0f75745f97c26ea0ab6a248e0743c3832dce471eea6dc9",
+    "audio": "a5a476fe1e00a517a27645eed70ce2f4ce93ed08c7109f23fdaa11f16d42bcb4"
+  },
+  "selection": {
+    "source_group": "revision2"
+  }
+}
