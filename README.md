@@ -72,3 +72,5 @@ Existing `id` values are preserved as decimal strings with the full unsigned 64-
 The voice library contains one configured reference per character, with separate female and male V voices. Each reference includes its recording, exact transcript and cached conditioning tensors. Alternative references are catalogued in `voices/variants.json`.
 
 See [CLI, reference formats & lipsync](docs/reference.md) for advanced workflows.
+
+For native lipsync export, install the facial writer with `cargo install --locked --git https://github.com/ghostline77/ghostline-red --bin ghostline-facial`, or pass its executable to `--native-exporter`.
