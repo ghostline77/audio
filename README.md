@@ -11,7 +11,7 @@ python -m pip install -e .
 ghostline-audio serve
 ```
 
-Open **http://127.0.0.1:8791/** from this repo.
+Open **http://127.0.0.1:8791/**. A wheel installation can start in an empty workspace. Use Voice Design to add the first voice or pass `--library` with an existing voice library.
 
 1. **Models & setup:** download a Base model if one is not already available.
 2. **Dialogue → New dialogue:** enter a name. The app creates the file; no manifest or schema setup is required. Use **Open dialogue** to continue, or **Import dialogue JSON** for existing authoring files.

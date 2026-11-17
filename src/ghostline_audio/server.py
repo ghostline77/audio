@@ -43,6 +43,8 @@ class Workbench:
         return path
 
     def voices(self):
+        if not self.library.exists():
+            return []
         result = []
         for name, voice in read_json(self.library)["voices"].items():
             if voice.get("full_reference"):
